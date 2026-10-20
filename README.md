@@ -1,8 +1,8 @@
-# Kumpulan Studi Kasus Terpadu: AI, Data Science & Geospatial Engineering
+# Kumpulan Studi Kasus Terpadu: UTS Deep Learning & AI
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/Repository-UTS--AI--Case--Studies-181717.svg?logo=github)](https://github.com/MIrvanR/uts-ai-study-cases)
+[![GitHub](https://img.shields.io/badge/Repository-UTS--Deep--Learning-181717.svg?logo=github)](https://github.com/MIrvanR/uts-deep-learning)
 
 Repositori ini memuat implementasi lengkap dan komprehensif dari **6 Sesi Studi Kasus** yang mencakup berbagai domain terapan kecerdasan buatan (*Artificial Intelligence*), pembelajaran mesin (*Machine Learning*), analisis geospasial (*GIS*), arsitektur *software integration*, visualisasi data (*HCI*), hingga *Deep Learning* penginderaan jauh (*Remote Sensing*).
 
@@ -13,7 +13,7 @@ Repositori ini memuat implementasi lengkap dan komprehensif dari **6 Sesi Studi 
 Struktur repositori disusun secara modular per folder sesi:
 
 ```text
-uts-ai-study-cases/
+uts-deep-learning/
 ├── sesi_1/   # E-Commerce Customer Lifetime Value & RFM Clustering
 ├── sesi_2/   # Modular Pipeline Agregasi Harga Komoditas Pangan Lokal (SQLite)
 ├── sesi_3/   # Analisis Aksesibilitas Spasial & Buffer Zone Faskes (GeoPandas)
