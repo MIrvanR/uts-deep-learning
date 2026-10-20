@@ -1,0 +1,1201 @@
+TransactionID,Date,Month,Region,Category,Quantity,UnitPrice,TotalRevenue,PaymentMethod
+TRX-20260102,2026-01-01,2026-01,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,98680,98680,QRIS / E-Wallet
+TRX-20260087,2026-01-01,2026-01,Jawa Tengah,Elektronik & Gadget,1,2331725,2331725,Tunai
+TRX-20260091,2026-01-01,2026-01,Jawa Tengah,Fashion & Busana,2,440610,881220,Transfer Bank
+TRX-20260837,2026-01-01,2026-01,DKI Jakarta,Peralatan Rumah Tangga,2,1320675,2641350,Tunai
+TRX-20260861,2026-01-01,2026-01,DKI Jakarta,Fashion & Busana,1,155837,155837,QRIS / E-Wallet
+TRX-20260035,2026-01-02,2026-01,Bali & Nusa Tenggara,Elektronik & Gadget,2,8375178,16750356,Transfer Bank
+TRX-20260027,2026-01-02,2026-01,Jawa Barat,Elektronik & Gadget,1,8484183,8484183,Transfer Bank
+TRX-20260963,2026-01-02,2026-01,Jawa Barat,Fashion & Busana,1,98992,98992,Kartu Kredit
+TRX-20261113,2026-01-03,2026-01,Jawa Barat,Elektronik & Gadget,1,5575662,5575662,Transfer Bank
+TRX-20260311,2026-01-03,2026-01,Bali & Nusa Tenggara,Elektronik & Gadget,8,3605971,28847768,QRIS / E-Wallet
+TRX-20260993,2026-01-04,2026-01,Jawa Timur,Fashion & Busana,1,221875,221875,Tunai
+TRX-20261153,2026-01-04,2026-01,Jawa Barat,Bahan Makanan & Kuliner,1,181438,181438,Tunai
+TRX-20260066,2026-01-04,2026-01,Jawa Tengah,Fashion & Busana,2,568916,1137832,Tunai
+TRX-20260414,2026-01-04,2026-01,Jawa Timur,Peralatan Rumah Tangga,2,491437,982874,Kartu Kredit
+TRX-20260198,2026-01-04,2026-01,Jawa Timur,Fashion & Busana,2,313534,627068,QRIS / E-Wallet
+TRX-20260306,2026-01-05,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,3,111269,333807,Tunai
+TRX-20260471,2026-01-05,2026-01,Jawa Timur,Fashion & Busana,1,576532,576532,Tunai
+TRX-20260688,2026-01-06,2026-01,Jawa Barat,Bahan Makanan & Kuliner,1,133959,133959,Kartu Kredit
+TRX-20260743,2026-01-06,2026-01,DKI Jakarta,Elektronik & Gadget,3,2253299,6759897,Transfer Bank
+TRX-20261039,2026-01-07,2026-01,DKI Jakarta,Elektronik & Gadget,1,2893653,2893653,Transfer Bank
+TRX-20260455,2026-01-07,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,1,98037,98037,Tunai
+TRX-20261160,2026-01-07,2026-01,DKI Jakarta,Elektronik & Gadget,1,4631453,4631453,Transfer Bank
+TRX-20260834,2026-01-08,2026-01,Jawa Timur,Peralatan Rumah Tangga,4,1386712,5546848,Tunai
+TRX-20260759,2026-01-08,2026-01,Bali & Nusa Tenggara,Elektronik & Gadget,1,3722882,3722882,Tunai
+TRX-20261106,2026-01-08,2026-01,Jawa Barat,Fashion & Busana,1,468571,468571,Tunai
+TRX-20260274,2026-01-08,2026-01,Bali & Nusa Tenggara,Elektronik & Gadget,4,2504796,10019184,QRIS / E-Wallet
+TRX-20260081,2026-01-09,2026-01,Jawa Tengah,Fashion & Busana,5,483794,2418970,Tunai
+TRX-20260036,2026-01-09,2026-01,DKI Jakarta,Peralatan Rumah Tangga,2,1317556,2635112,Kartu Kredit
+TRX-20260239,2026-01-09,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,1,143424,143424,QRIS / E-Wallet
+TRX-20260540,2026-01-10,2026-01,Jawa Timur,Elektronik & Gadget,2,4866231,9732462,Transfer Bank
+TRX-20260360,2026-01-10,2026-01,Jawa Tengah,Elektronik & Gadget,3,4310460,12931380,Transfer Bank
+TRX-20260349,2026-01-10,2026-01,DKI Jakarta,Fashion & Busana,1,433322,433322,Tunai
+TRX-20260881,2026-01-10,2026-01,Jawa Tengah,Fashion & Busana,4,608305,2433220,QRIS / E-Wallet
+TRX-20261159,2026-01-11,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,3,215774,647322,Transfer Bank
+TRX-20260803,2026-01-11,2026-01,DKI Jakarta,Fashion & Busana,2,217063,434126,Kartu Kredit
+TRX-20260676,2026-01-11,2026-01,Jawa Barat,Fashion & Busana,3,140699,422097,Tunai
+TRX-20260317,2026-01-12,2026-01,Bali & Nusa Tenggara,Fashion & Busana,3,645569,1936707,Transfer Bank
+TRX-20260251,2026-01-12,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,2,127648,255296,QRIS / E-Wallet
+TRX-20260838,2026-01-12,2026-01,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,514494,514494,Tunai
+TRX-20260271,2026-01-12,2026-01,DKI Jakarta,Elektronik & Gadget,2,2223162,4446324,QRIS / E-Wallet
+TRX-20260069,2026-01-12,2026-01,DKI Jakarta,Peralatan Rumah Tangga,1,1324116,1324116,Transfer Bank
+TRX-20260517,2026-01-12,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,2,68536,137072,Kartu Kredit
+TRX-20260511,2026-01-13,2026-01,Jawa Barat,Fashion & Busana,2,141424,282848,Tunai
+TRX-20260674,2026-01-13,2026-01,DKI Jakarta,Peralatan Rumah Tangga,1,606242,606242,QRIS / E-Wallet
+TRX-20260733,2026-01-13,2026-01,DKI Jakarta,Peralatan Rumah Tangga,2,867711,1735422,Tunai
+TRX-20260051,2026-01-13,2026-01,DKI Jakarta,Fashion & Busana,3,542289,1626867,Kartu Kredit
+TRX-20260361,2026-01-13,2026-01,Jawa Barat,Bahan Makanan & Kuliner,1,61664,61664,Tunai
+TRX-20260223,2026-01-13,2026-01,Jawa Tengah,Bahan Makanan & Kuliner,1,75444,75444,QRIS / E-Wallet
+TRX-20260695,2026-01-13,2026-01,Jawa Tengah,Bahan Makanan & Kuliner,2,125019,250038,QRIS / E-Wallet
+TRX-20261023,2026-01-14,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,2,69315,138630,Transfer Bank
+TRX-20260261,2026-01-14,2026-01,Bali & Nusa Tenggara,Fashion & Busana,2,425048,850096,Kartu Kredit
+TRX-20260657,2026-01-14,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,2,181860,363720,Kartu Kredit
+TRX-20260578,2026-01-14,2026-01,Jawa Timur,Bahan Makanan & Kuliner,2,155938,311876,Tunai
+TRX-20260119,2026-01-14,2026-01,DKI Jakarta,Fashion & Busana,2,346332,692664,Kartu Kredit
+TRX-20260238,2026-01-15,2026-01,Jawa Barat,Peralatan Rumah Tangga,1,1406789,1406789,Transfer Bank
+TRX-20260143,2026-01-15,2026-01,Jawa Timur,Fashion & Busana,2,497760,995520,QRIS / E-Wallet
+TRX-20260917,2026-01-16,2026-01,DKI Jakarta,Elektronik & Gadget,1,8188137,8188137,QRIS / E-Wallet
+TRX-20260920,2026-01-16,2026-01,DKI Jakarta,Peralatan Rumah Tangga,3,1386847,4160541,Kartu Kredit
+TRX-20261120,2026-01-16,2026-01,Jawa Timur,Bahan Makanan & Kuliner,2,111325,222650,Transfer Bank
+TRX-20261139,2026-01-17,2026-01,Jawa Timur,Fashion & Busana,1,105969,105969,Tunai
+TRX-20260190,2026-01-17,2026-01,Bali & Nusa Tenggara,Fashion & Busana,5,541198,2705990,Kartu Kredit
+TRX-20260621,2026-01-17,2026-01,DKI Jakarta,Peralatan Rumah Tangga,8,703997,5631976,QRIS / E-Wallet
+TRX-20260580,2026-01-17,2026-01,DKI Jakarta,Peralatan Rumah Tangga,2,209778,419556,Transfer Bank
+TRX-20261157,2026-01-18,2026-01,Jawa Barat,Peralatan Rumah Tangga,1,570352,570352,Tunai
+TRX-20260163,2026-01-18,2026-01,DKI Jakarta,Elektronik & Gadget,2,4804468,9608936,Kartu Kredit
+TRX-20260978,2026-01-18,2026-01,Jawa Timur,Elektronik & Gadget,1,4433953,4433953,QRIS / E-Wallet
+TRX-20260281,2026-01-19,2026-01,Jawa Timur,Bahan Makanan & Kuliner,4,174212,696848,Transfer Bank
+TRX-20260076,2026-01-19,2026-01,Jawa Barat,Fashion & Busana,1,305134,305134,Tunai
+TRX-20260370,2026-01-19,2026-01,Jawa Barat,Peralatan Rumah Tangga,3,399089,1197267,Tunai
+TRX-20260533,2026-01-19,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,1,75610,75610,Transfer Bank
+TRX-20260654,2026-01-19,2026-01,Jawa Barat,Fashion & Busana,2,124170,248340,Transfer Bank
+TRX-20260860,2026-01-19,2026-01,Jawa Tengah,Elektronik & Gadget,1,5516954,5516954,QRIS / E-Wallet
+TRX-20260823,2026-01-19,2026-01,Jawa Barat,Fashion & Busana,3,425883,1277649,Kartu Kredit
+TRX-20260366,2026-01-20,2026-01,Jawa Barat,Elektronik & Gadget,1,2668195,2668195,Kartu Kredit
+TRX-20260393,2026-01-20,2026-01,Jawa Barat,Bahan Makanan & Kuliner,1,64265,64265,Tunai
+TRX-20260337,2026-01-21,2026-01,Bali & Nusa Tenggara,Fashion & Busana,1,307879,307879,QRIS / E-Wallet
+TRX-20260288,2026-01-21,2026-01,DKI Jakarta,Fashion & Busana,2,506984,1013968,Kartu Kredit
+TRX-20261161,2026-01-21,2026-01,Bali & Nusa Tenggara,Fashion & Busana,1,131336,131336,Tunai
+TRX-20260114,2026-01-22,2026-01,DKI Jakarta,Peralatan Rumah Tangga,1,578959,578959,QRIS / E-Wallet
+TRX-20260785,2026-01-22,2026-01,Jawa Barat,Elektronik & Gadget,8,7461160,59689280,Tunai
+TRX-20260897,2026-01-22,2026-01,DKI Jakarta,Fashion & Busana,1,349408,349408,Tunai
+TRX-20260956,2026-01-23,2026-01,Jawa Timur,Elektronik & Gadget,1,4512425,4512425,QRIS / E-Wallet
+TRX-20260101,2026-01-23,2026-01,Jawa Tengah,Fashion & Busana,4,508699,2034796,QRIS / E-Wallet
+TRX-20260256,2026-01-24,2026-01,Jawa Barat,Elektronik & Gadget,1,8225463,8225463,Tunai
+TRX-20261041,2026-01-24,2026-01,Jawa Timur,Bahan Makanan & Kuliner,1,67403,67403,Tunai
+TRX-20260933,2026-01-25,2026-01,Jawa Tengah,Elektronik & Gadget,3,5530501,16591503,Kartu Kredit
+TRX-20260482,2026-01-25,2026-01,Jawa Tengah,Fashion & Busana,2,93088,186176,Kartu Kredit
+TRX-20260322,2026-01-25,2026-01,Jawa Tengah,Peralatan Rumah Tangga,5,542316,2711580,Transfer Bank
+TRX-20260711,2026-01-25,2026-01,Jawa Timur,Bahan Makanan & Kuliner,5,54342,271710,Kartu Kredit
+TRX-20261109,2026-01-25,2026-01,Jawa Tengah,Fashion & Busana,2,639481,1278962,Kartu Kredit
+TRX-20260829,2026-01-25,2026-01,Jawa Barat,Elektronik & Gadget,4,3027220,12108880,QRIS / E-Wallet
+TRX-20260158,2026-01-25,2026-01,Jawa Barat,Elektronik & Gadget,1,7889246,7889246,Transfer Bank
+TRX-20260858,2026-01-25,2026-01,DKI Jakarta,Fashion & Busana,2,423604,847208,QRIS / E-Wallet
+TRX-20260130,2026-01-26,2026-01,DKI Jakarta,Peralatan Rumah Tangga,2,1075548,2151096,Tunai
+TRX-20260296,2026-01-26,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,2,125459,250918,Transfer Bank
+TRX-20260193,2026-01-26,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,1,160169,160169,Transfer Bank
+TRX-20260523,2026-01-26,2026-01,Jawa Timur,Elektronik & Gadget,2,6579390,13158780,Kartu Kredit
+TRX-20260801,2026-01-26,2026-01,DKI Jakarta,Elektronik & Gadget,1,8244359,8244359,QRIS / E-Wallet
+TRX-20260232,2026-01-27,2026-01,Jawa Timur,Peralatan Rumah Tangga,1,1147854,1147854,Transfer Bank
+TRX-20261028,2026-01-27,2026-01,Jawa Tengah,Fashion & Busana,5,336717,1683585,Kartu Kredit
+TRX-20260513,2026-01-29,2026-01,Jawa Barat,Fashion & Busana,1,596927,596927,Tunai
+TRX-20260201,2026-01-29,2026-01,Jawa Tengah,Peralatan Rumah Tangga,1,213139,213139,QRIS / E-Wallet
+TRX-20261154,2026-01-29,2026-01,Jawa Tengah,Fashion & Busana,1,339976,339976,Transfer Bank
+TRX-20260491,2026-01-31,2026-01,Jawa Timur,Elektronik & Gadget,3,4412849,13238547,Kartu Kredit
+TRX-20260221,2026-01-31,2026-01,Jawa Timur,Peralatan Rumah Tangga,1,1398549,1398549,Transfer Bank
+TRX-20261165,2026-01-31,2026-01,DKI Jakarta,Bahan Makanan & Kuliner,3,60795,182385,Kartu Kredit
+TRX-20260982,2026-02-01,2026-02,DKI Jakarta,Elektronik & Gadget,3,5572050,16716150,QRIS / E-Wallet
+TRX-20260971,2026-02-01,2026-02,Bali & Nusa Tenggara,Elektronik & Gadget,3,3287473,9862419,QRIS / E-Wallet
+TRX-20260609,2026-02-01,2026-02,Jawa Timur,Peralatan Rumah Tangga,1,1169759,1169759,QRIS / E-Wallet
+TRX-20260162,2026-02-01,2026-02,Jawa Barat,Bahan Makanan & Kuliner,4,65931,263724,QRIS / E-Wallet
+TRX-20260229,2026-02-02,2026-02,DKI Jakarta,Elektronik & Gadget,1,6807842,6807842,Kartu Kredit
+TRX-20260991,2026-02-02,2026-02,DKI Jakarta,Fashion & Busana,1,615072,615072,QRIS / E-Wallet
+TRX-20260103,2026-02-03,2026-02,Jawa Barat,Elektronik & Gadget,3,7647544,22942632,Tunai
+TRX-20260179,2026-02-03,2026-02,Jawa Barat,Peralatan Rumah Tangga,2,276608,553216,QRIS / E-Wallet
+TRX-20260926,2026-02-03,2026-02,Jawa Barat,Fashion & Busana,2,518903,1037806,QRIS / E-Wallet
+TRX-20260959,2026-02-03,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,1,62609,62609,Transfer Bank
+TRX-20260864,2026-02-03,2026-02,Jawa Barat,Fashion & Busana,1,197234,197234,QRIS / E-Wallet
+TRX-20260418,2026-02-04,2026-02,Jawa Barat,Fashion & Busana,2,573478,1146956,Kartu Kredit
+TRX-20260270,2026-02-04,2026-02,Jawa Barat,Elektronik & Gadget,2,1861877,3723754,QRIS / E-Wallet
+TRX-20260016,2026-02-04,2026-02,Jawa Barat,Fashion & Busana,2,497227,994454,QRIS / E-Wallet
+TRX-20260833,2026-02-04,2026-02,DKI Jakarta,Elektronik & Gadget,1,2791213,2791213,Kartu Kredit
+TRX-20260878,2026-02-04,2026-02,Jawa Timur,Peralatan Rumah Tangga,1,1177427,1177427,QRIS / E-Wallet
+TRX-20261085,2026-02-04,2026-02,Bali & Nusa Tenggara,Elektronik & Gadget,1,4885022,4885022,Tunai
+TRX-20260611,2026-02-04,2026-02,DKI Jakarta,Elektronik & Gadget,2,4249115,8498230,QRIS / E-Wallet
+TRX-20260309,2026-02-05,2026-02,Bali & Nusa Tenggara,Fashion & Busana,2,273466,546932,QRIS / E-Wallet
+TRX-20260294,2026-02-05,2026-02,Jawa Barat,Fashion & Busana,1,533275,533275,Transfer Bank
+TRX-20260144,2026-02-07,2026-02,Jawa Tengah,Fashion & Busana,3,590049,1770147,QRIS / E-Wallet
+TRX-20260135,2026-02-07,2026-02,Jawa Barat,Bahan Makanan & Kuliner,2,173244,346488,Transfer Bank
+TRX-20260132,2026-02-07,2026-02,Jawa Barat,Fashion & Busana,3,484585,1453755,Kartu Kredit
+TRX-20260556,2026-02-07,2026-02,Jawa Tengah,Elektronik & Gadget,5,6605413,33027065,Tunai
+TRX-20260648,2026-02-07,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,2,183479,366958,Tunai
+TRX-20260766,2026-02-07,2026-02,DKI Jakarta,Peralatan Rumah Tangga,1,515391,515391,Kartu Kredit
+TRX-20260597,2026-02-07,2026-02,Jawa Barat,Elektronik & Gadget,3,8160434,24481302,Tunai
+TRX-20260802,2026-02-08,2026-02,Bali & Nusa Tenggara,Fashion & Busana,1,133608,133608,Kartu Kredit
+TRX-20261061,2026-02-08,2026-02,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,1261415,1261415,Kartu Kredit
+TRX-20261194,2026-02-08,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,1,165421,165421,Tunai
+TRX-20260293,2026-02-08,2026-02,Jawa Barat,Fashion & Busana,3,154620,463860,Kartu Kredit
+TRX-20260142,2026-02-08,2026-02,DKI Jakarta,Fashion & Busana,4,392107,1568428,Transfer Bank
+TRX-20261095,2026-02-08,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,2,158120,316240,Transfer Bank
+TRX-20260820,2026-02-08,2026-02,Jawa Barat,Elektronik & Gadget,3,8076980,24230940,Transfer Bank
+TRX-20260781,2026-02-08,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,3,182317,546951,QRIS / E-Wallet
+TRX-20260681,2026-02-09,2026-02,Jawa Barat,Elektronik & Gadget,3,5437886,16313658,Kartu Kredit
+TRX-20260548,2026-02-09,2026-02,Jawa Barat,Fashion & Busana,4,590163,2360652,Transfer Bank
+TRX-20260214,2026-02-09,2026-02,Bali & Nusa Tenggara,Elektronik & Gadget,1,7465354,7465354,Kartu Kredit
+TRX-20260551,2026-02-09,2026-02,DKI Jakarta,Fashion & Busana,3,316317,948951,Tunai
+TRX-20260410,2026-02-10,2026-02,Jawa Tengah,Elektronik & Gadget,1,3179118,3179118,Transfer Bank
+TRX-20260778,2026-02-11,2026-02,DKI Jakarta,Fashion & Busana,1,617829,617829,Transfer Bank
+TRX-20260840,2026-02-12,2026-02,Jawa Barat,Bahan Makanan & Kuliner,4,34159,136636,Transfer Bank
+TRX-20261179,2026-02-12,2026-02,DKI Jakarta,Elektronik & Gadget,1,5880888,5880888,Transfer Bank
+TRX-20261037,2026-02-13,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,1,169218,169218,Transfer Bank
+TRX-20260396,2026-02-13,2026-02,Jawa Barat,Elektronik & Gadget,1,1956432,1956432,Tunai
+TRX-20260635,2026-02-13,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,1,27852,27852,Kartu Kredit
+TRX-20260519,2026-02-14,2026-02,Jawa Barat,Peralatan Rumah Tangga,1,926174,926174,Tunai
+TRX-20260629,2026-02-14,2026-02,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,39450,39450,Tunai
+TRX-20260691,2026-02-14,2026-02,Jawa Timur,Fashion & Busana,3,417747,1253241,Transfer Bank
+TRX-20260613,2026-02-15,2026-02,Jawa Barat,Elektronik & Gadget,1,6215517,6215517,Tunai
+TRX-20261183,2026-02-16,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,3,150347,451041,Transfer Bank
+TRX-20260295,2026-02-16,2026-02,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,851801,851801,Kartu Kredit
+TRX-20260558,2026-02-16,2026-02,Jawa Timur,Bahan Makanan & Kuliner,1,184271,184271,Kartu Kredit
+TRX-20260577,2026-02-16,2026-02,Jawa Barat,Bahan Makanan & Kuliner,1,89828,89828,QRIS / E-Wallet
+TRX-20261070,2026-02-16,2026-02,Jawa Timur,Elektronik & Gadget,1,1583425,1583425,Tunai
+TRX-20260627,2026-02-17,2026-02,DKI Jakarta,Fashion & Busana,1,450992,450992,Tunai
+TRX-20261060,2026-02-17,2026-02,DKI Jakarta,Peralatan Rumah Tangga,1,1409422,1409422,QRIS / E-Wallet
+TRX-20260476,2026-02-17,2026-02,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,5,136838,684190,Tunai
+TRX-20260865,2026-02-17,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,2,108167,216334,Kartu Kredit
+TRX-20260889,2026-02-17,2026-02,Jawa Timur,Fashion & Busana,1,426436,426436,Tunai
+TRX-20260620,2026-02-17,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,4,29317,117268,Tunai
+TRX-20260015,2026-02-17,2026-02,Jawa Barat,Peralatan Rumah Tangga,1,948986,948986,Transfer Bank
+TRX-20261089,2026-02-18,2026-02,Jawa Timur,Peralatan Rumah Tangga,1,728880,728880,QRIS / E-Wallet
+TRX-20260346,2026-02-18,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,1,146809,146809,Tunai
+TRX-20260510,2026-02-18,2026-02,DKI Jakarta,Elektronik & Gadget,2,1801048,3602096,Transfer Bank
+TRX-20260891,2026-02-19,2026-02,DKI Jakarta,Peralatan Rumah Tangga,1,1084744,1084744,Transfer Bank
+TRX-20260767,2026-02-19,2026-02,Jawa Barat,Bahan Makanan & Kuliner,2,52515,105030,Tunai
+TRX-20260257,2026-02-19,2026-02,Jawa Timur,Bahan Makanan & Kuliner,2,174706,349412,Tunai
+TRX-20260656,2026-02-20,2026-02,Jawa Barat,Fashion & Busana,2,434467,868934,Transfer Bank
+TRX-20260847,2026-02-20,2026-02,Jawa Tengah,Peralatan Rumah Tangga,1,418794,418794,Transfer Bank
+TRX-20260447,2026-02-20,2026-02,Jawa Timur,Peralatan Rumah Tangga,2,916260,1832520,QRIS / E-Wallet
+TRX-20260525,2026-02-21,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,1,75681,75681,Transfer Bank
+TRX-20261128,2026-02-21,2026-02,Jawa Barat,Elektronik & Gadget,1,3616770,3616770,QRIS / E-Wallet
+TRX-20260278,2026-02-22,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,2,67056,134112,QRIS / E-Wallet
+TRX-20260493,2026-02-22,2026-02,Jawa Timur,Fashion & Busana,1,346692,346692,Transfer Bank
+TRX-20260554,2026-02-23,2026-02,Jawa Barat,Bahan Makanan & Kuliner,1,25002,25002,QRIS / E-Wallet
+TRX-20260527,2026-02-23,2026-02,Jawa Barat,Elektronik & Gadget,1,5916452,5916452,Transfer Bank
+TRX-20260795,2026-02-23,2026-02,Jawa Timur,Elektronik & Gadget,5,7308060,36540300,Kartu Kredit
+TRX-20260884,2026-02-23,2026-02,Jawa Tengah,Elektronik & Gadget,1,4617866,4617866,Transfer Bank
+TRX-20260008,2026-02-23,2026-02,Jawa Barat,Fashion & Busana,3,187963,563889,Transfer Bank
+TRX-20260492,2026-02-23,2026-02,DKI Jakarta,Peralatan Rumah Tangga,3,723749,2171247,Tunai
+TRX-20260489,2026-02-24,2026-02,Jawa Timur,Fashion & Busana,4,538967,2155868,QRIS / E-Wallet
+TRX-20260841,2026-02-25,2026-02,Jawa Barat,Bahan Makanan & Kuliner,1,58125,58125,Kartu Kredit
+TRX-20261091,2026-02-25,2026-02,DKI Jakarta,Peralatan Rumah Tangga,1,1020170,1020170,Transfer Bank
+TRX-20260905,2026-02-25,2026-02,Jawa Tengah,Elektronik & Gadget,1,1876813,1876813,Tunai
+TRX-20260930,2026-02-25,2026-02,Jawa Barat,Elektronik & Gadget,2,3599283,7198566,Tunai
+TRX-20260969,2026-02-26,2026-02,DKI Jakarta,Bahan Makanan & Kuliner,1,90767,90767,Tunai
+TRX-20260379,2026-02-26,2026-02,Jawa Tengah,Elektronik & Gadget,1,3076565,3076565,Tunai
+TRX-20260731,2026-02-27,2026-02,Jawa Tengah,Fashion & Busana,1,611893,611893,QRIS / E-Wallet
+TRX-20260544,2026-02-27,2026-02,Jawa Timur,Fashion & Busana,1,455996,455996,Tunai
+TRX-20260707,2026-02-27,2026-02,Jawa Tengah,Peralatan Rumah Tangga,1,571894,571894,QRIS / E-Wallet
+TRX-20260395,2026-02-27,2026-02,Jawa Tengah,Peralatan Rumah Tangga,1,437598,437598,QRIS / E-Wallet
+TRX-20260601,2026-02-27,2026-02,DKI Jakarta,Elektronik & Gadget,1,7011613,7011613,Tunai
+TRX-20260234,2026-02-27,2026-02,Jawa Timur,Bahan Makanan & Kuliner,1,111248,111248,Kartu Kredit
+TRX-20260922,2026-02-27,2026-02,DKI Jakarta,Fashion & Busana,1,459799,459799,Transfer Bank
+TRX-20261097,2026-02-28,2026-02,Jawa Tengah,Elektronik & Gadget,2,6342443,12684886,Transfer Bank
+TRX-20260999,2026-02-28,2026-02,Jawa Barat,Bahan Makanan & Kuliner,1,154624,154624,Kartu Kredit
+TRX-20260254,2026-02-28,2026-02,Jawa Tengah,Bahan Makanan & Kuliner,2,89801,179602,Transfer Bank
+TRX-20260631,2026-03-01,2026-03,Jawa Tengah,Fashion & Busana,1,123823,123823,Transfer Bank
+TRX-20260649,2026-03-02,2026-03,Jawa Timur,Peralatan Rumah Tangga,3,1361649,4084947,QRIS / E-Wallet
+TRX-20260113,2026-03-02,2026-03,DKI Jakarta,Peralatan Rumah Tangga,2,750368,1500736,Kartu Kredit
+TRX-20260486,2026-03-02,2026-03,DKI Jakarta,Peralatan Rumah Tangga,1,1380425,1380425,Transfer Bank
+TRX-20260374,2026-03-02,2026-03,Bali & Nusa Tenggara,Fashion & Busana,2,408107,816214,Kartu Kredit
+TRX-20260632,2026-03-03,2026-03,Jawa Timur,Fashion & Busana,1,610047,610047,QRIS / E-Wallet
+TRX-20260637,2026-03-03,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,2,198379,396758,Transfer Bank
+TRX-20260332,2026-03-03,2026-03,Jawa Barat,Bahan Makanan & Kuliner,1,175014,175014,Transfer Bank
+TRX-20260139,2026-03-03,2026-03,Jawa Barat,Elektronik & Gadget,2,7202023,14404046,QRIS / E-Wallet
+TRX-20260450,2026-03-03,2026-03,Jawa Barat,Elektronik & Gadget,4,4295581,17182324,Kartu Kredit
+TRX-20260211,2026-03-03,2026-03,Bali & Nusa Tenggara,Elektronik & Gadget,3,4273694,12821082,Kartu Kredit
+TRX-20260013,2026-03-04,2026-03,Jawa Timur,Fashion & Busana,1,308108,308108,QRIS / E-Wallet
+TRX-20260330,2026-03-04,2026-03,Jawa Timur,Bahan Makanan & Kuliner,1,127773,127773,Kartu Kredit
+TRX-20260279,2026-03-04,2026-03,Bali & Nusa Tenggara,Elektronik & Gadget,8,6104917,48839336,QRIS / E-Wallet
+TRX-20261020,2026-03-04,2026-03,Jawa Tengah,Fashion & Busana,1,93021,93021,Kartu Kredit
+TRX-20261135,2026-03-05,2026-03,DKI Jakarta,Elektronik & Gadget,5,7655751,38278755,Tunai
+TRX-20260333,2026-03-06,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,2,138518,277036,Transfer Bank
+TRX-20260203,2026-03-06,2026-03,DKI Jakarta,Elektronik & Gadget,2,3854593,7709186,Kartu Kredit
+TRX-20260678,2026-03-06,2026-03,Jawa Barat,Elektronik & Gadget,4,2719703,10878812,Kartu Kredit
+TRX-20260106,2026-03-07,2026-03,Jawa Timur,Fashion & Busana,3,322602,967806,Kartu Kredit
+TRX-20261063,2026-03-07,2026-03,DKI Jakarta,Elektronik & Gadget,1,4355271,4355271,Kartu Kredit
+TRX-20260842,2026-03-09,2026-03,DKI Jakarta,Fashion & Busana,2,453929,907858,Transfer Bank
+TRX-20261007,2026-03-09,2026-03,Jawa Barat,Fashion & Busana,1,213527,213527,Transfer Bank
+TRX-20260987,2026-03-09,2026-03,Jawa Timur,Elektronik & Gadget,3,2924744,8774232,Kartu Kredit
+TRX-20260323,2026-03-09,2026-03,DKI Jakarta,Elektronik & Gadget,1,1680683,1680683,Tunai
+TRX-20261087,2026-03-09,2026-03,Jawa Barat,Fashion & Busana,1,555471,555471,Kartu Kredit
+TRX-20260769,2026-03-09,2026-03,Bali & Nusa Tenggara,Elektronik & Gadget,2,4611697,9223394,Transfer Bank
+TRX-20260553,2026-03-10,2026-03,Jawa Barat,Fashion & Busana,1,244596,244596,QRIS / E-Wallet
+TRX-20260376,2026-03-10,2026-03,Jawa Timur,Bahan Makanan & Kuliner,3,35946,107838,QRIS / E-Wallet
+TRX-20260078,2026-03-10,2026-03,DKI Jakarta,Fashion & Busana,1,363559,363559,QRIS / E-Wallet
+TRX-20260868,2026-03-10,2026-03,Jawa Barat,Fashion & Busana,2,273021,546042,Tunai
+TRX-20260061,2026-03-10,2026-03,Jawa Tengah,Bahan Makanan & Kuliner,2,125755,251510,Kartu Kredit
+TRX-20260607,2026-03-10,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,1,186165,186165,Tunai
+TRX-20260595,2026-03-10,2026-03,DKI Jakarta,Peralatan Rumah Tangga,1,159240,159240,Transfer Bank
+TRX-20260110,2026-03-10,2026-03,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,774514,774514,QRIS / E-Wallet
+TRX-20260126,2026-03-11,2026-03,DKI Jakarta,Peralatan Rumah Tangga,1,130020,130020,Tunai
+TRX-20261052,2026-03-11,2026-03,DKI Jakarta,Peralatan Rumah Tangga,1,1061135,1061135,Tunai
+TRX-20261013,2026-03-12,2026-03,DKI Jakarta,Fashion & Busana,4,304902,1219608,QRIS / E-Wallet
+TRX-20260954,2026-03-12,2026-03,Jawa Barat,Peralatan Rumah Tangga,1,936797,936797,Kartu Kredit
+TRX-20260700,2026-03-13,2026-03,Bali & Nusa Tenggara,Fashion & Busana,4,521960,2087840,Tunai
+TRX-20260757,2026-03-13,2026-03,Jawa Timur,Fashion & Busana,2,240510,481020,Kartu Kredit
+TRX-20260780,2026-03-14,2026-03,Jawa Barat,Elektronik & Gadget,1,5658993,5658993,QRIS / E-Wallet
+TRX-20260872,2026-03-14,2026-03,Jawa Tengah,Fashion & Busana,4,286462,1145848,Transfer Bank
+TRX-20261096,2026-03-14,2026-03,Jawa Barat,Fashion & Busana,2,588400,1176800,QRIS / E-Wallet
+TRX-20260590,2026-03-14,2026-03,Jawa Timur,Fashion & Busana,1,615903,615903,Transfer Bank
+TRX-20261077,2026-03-14,2026-03,DKI Jakarta,Elektronik & Gadget,8,2919972,23359776,Kartu Kredit
+TRX-20260658,2026-03-16,2026-03,DKI Jakarta,Peralatan Rumah Tangga,3,602033,1806099,QRIS / E-Wallet
+TRX-20260859,2026-03-16,2026-03,Jawa Barat,Fashion & Busana,2,246378,492756,Tunai
+TRX-20260566,2026-03-17,2026-03,Jawa Tengah,Peralatan Rumah Tangga,2,1259194,2518388,QRIS / E-Wallet
+TRX-20260243,2026-03-17,2026-03,Bali & Nusa Tenggara,Elektronik & Gadget,1,4863548,4863548,Tunai
+TRX-20260845,2026-03-17,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,1,46911,46911,Transfer Bank
+TRX-20261003,2026-03-17,2026-03,Jawa Barat,Peralatan Rumah Tangga,1,1445756,1445756,Tunai
+TRX-20261026,2026-03-17,2026-03,Jawa Tengah,Bahan Makanan & Kuliner,1,137415,137415,QRIS / E-Wallet
+TRX-20260292,2026-03-18,2026-03,Jawa Barat,Elektronik & Gadget,1,6523450,6523450,QRIS / E-Wallet
+TRX-20260647,2026-03-18,2026-03,Jawa Timur,Fashion & Busana,1,500969,500969,Transfer Bank
+TRX-20260301,2026-03-19,2026-03,Jawa Tengah,Elektronik & Gadget,2,2943303,5886606,QRIS / E-Wallet
+TRX-20260568,2026-03-19,2026-03,Jawa Tengah,Bahan Makanan & Kuliner,1,99949,99949,Transfer Bank
+TRX-20260115,2026-03-19,2026-03,DKI Jakarta,Fashion & Busana,4,286135,1144540,Kartu Kredit
+TRX-20260952,2026-03-19,2026-03,Jawa Barat,Fashion & Busana,3,480989,1442967,Transfer Bank
+TRX-20261055,2026-03-20,2026-03,DKI Jakarta,Peralatan Rumah Tangga,1,783917,783917,Tunai
+TRX-20260894,2026-03-20,2026-03,Jawa Barat,Elektronik & Gadget,5,5309801,26549005,QRIS / E-Wallet
+TRX-20260340,2026-03-20,2026-03,Jawa Timur,Fashion & Busana,1,303287,303287,Kartu Kredit
+TRX-20260265,2026-03-21,2026-03,Jawa Barat,Elektronik & Gadget,1,7685967,7685967,Transfer Bank
+TRX-20260328,2026-03-21,2026-03,Jawa Tengah,Elektronik & Gadget,1,3622926,3622926,QRIS / E-Wallet
+TRX-20260880,2026-03-21,2026-03,Jawa Timur,Fashion & Busana,1,544000,544000,Transfer Bank
+TRX-20260899,2026-03-22,2026-03,Bali & Nusa Tenggara,Peralatan Rumah Tangga,2,998862,1997724,QRIS / E-Wallet
+TRX-20260475,2026-03-23,2026-03,Jawa Barat,Bahan Makanan & Kuliner,8,193787,1550296,Kartu Kredit
+TRX-20260096,2026-03-23,2026-03,Jawa Barat,Elektronik & Gadget,3,7876490,23629470,QRIS / E-Wallet
+TRX-20260368,2026-03-23,2026-03,Jawa Tengah,Bahan Makanan & Kuliner,2,142680,285360,Tunai
+TRX-20260222,2026-03-23,2026-03,Jawa Timur,Peralatan Rumah Tangga,4,424071,1696284,Transfer Bank
+TRX-20260927,2026-03-23,2026-03,Bali & Nusa Tenggara,Peralatan Rumah Tangga,2,1300333,2600666,QRIS / E-Wallet
+TRX-20260327,2026-03-24,2026-03,DKI Jakarta,Peralatan Rumah Tangga,2,196848,393696,QRIS / E-Wallet
+TRX-20260445,2026-03-25,2026-03,Jawa Timur,Bahan Makanan & Kuliner,2,42995,85990,Tunai
+TRX-20260852,2026-03-26,2026-03,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,136498,136498,QRIS / E-Wallet
+TRX-20260302,2026-03-26,2026-03,Jawa Tengah,Fashion & Busana,1,643098,643098,Transfer Bank
+TRX-20260145,2026-03-27,2026-03,Jawa Tengah,Elektronik & Gadget,1,6707624,6707624,QRIS / E-Wallet
+TRX-20260967,2026-03-27,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,3,188101,564303,Kartu Kredit
+TRX-20260194,2026-03-27,2026-03,Jawa Timur,Bahan Makanan & Kuliner,2,219873,439746,Transfer Bank
+TRX-20260062,2026-03-27,2026-03,DKI Jakarta,Elektronik & Gadget,1,5462260,5462260,Transfer Bank
+TRX-20260275,2026-03-27,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,1,55451,55451,QRIS / E-Wallet
+TRX-20260389,2026-03-27,2026-03,Jawa Barat,Elektronik & Gadget,2,4327845,8655690,Transfer Bank
+TRX-20260537,2026-03-27,2026-03,Jawa Tengah,Elektronik & Gadget,3,5455597,16366791,QRIS / E-Wallet
+TRX-20261018,2026-03-28,2026-03,Jawa Timur,Fashion & Busana,1,487778,487778,QRIS / E-Wallet
+TRX-20260950,2026-03-28,2026-03,DKI Jakarta,Elektronik & Gadget,1,1506603,1506603,Kartu Kredit
+TRX-20260166,2026-03-28,2026-03,Bali & Nusa Tenggara,Fashion & Busana,1,448859,448859,Tunai
+TRX-20260433,2026-03-28,2026-03,Jawa Barat,Bahan Makanan & Kuliner,2,170000,340000,Transfer Bank
+TRX-20260341,2026-03-28,2026-03,Jawa Tengah,Fashion & Busana,2,169845,339690,QRIS / E-Wallet
+TRX-20261170,2026-03-28,2026-03,DKI Jakarta,Peralatan Rumah Tangga,2,1166341,2332682,Kartu Kredit
+TRX-20261033,2026-03-29,2026-03,DKI Jakarta,Elektronik & Gadget,1,3112234,3112234,Kartu Kredit
+TRX-20260866,2026-03-29,2026-03,Jawa Barat,Elektronik & Gadget,1,5126542,5126542,QRIS / E-Wallet
+TRX-20260604,2026-03-29,2026-03,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,104488,104488,Kartu Kredit
+TRX-20260356,2026-03-29,2026-03,DKI Jakarta,Elektronik & Gadget,1,8255908,8255908,Transfer Bank
+TRX-20260932,2026-03-30,2026-03,Jawa Tengah,Fashion & Busana,1,377270,377270,Transfer Bank
+TRX-20260060,2026-03-30,2026-03,Jawa Tengah,Fashion & Busana,1,220479,220479,QRIS / E-Wallet
+TRX-20260212,2026-03-30,2026-03,Jawa Barat,Peralatan Rumah Tangga,1,418505,418505,Transfer Bank
+TRX-20261127,2026-03-30,2026-03,Jawa Tengah,Peralatan Rumah Tangga,1,727156,727156,QRIS / E-Wallet
+TRX-20261150,2026-03-30,2026-03,DKI Jakarta,Fashion & Busana,1,252746,252746,Tunai
+TRX-20260976,2026-03-30,2026-03,DKI Jakarta,Bahan Makanan & Kuliner,1,125742,125742,Kartu Kredit
+TRX-20260423,2026-03-30,2026-03,Jawa Timur,Elektronik & Gadget,1,1586828,1586828,QRIS / E-Wallet
+TRX-20260070,2026-03-31,2026-03,DKI Jakarta,Elektronik & Gadget,1,5827777,5827777,Transfer Bank
+TRX-20260539,2026-04-01,2026-04,DKI Jakarta,Peralatan Rumah Tangga,2,356591,713182,Kartu Kredit
+TRX-20260417,2026-04-01,2026-04,Jawa Barat,Fashion & Busana,2,597565,1195130,Transfer Bank
+TRX-20260331,2026-04-02,2026-04,Jawa Barat,Fashion & Busana,1,194961,194961,Kartu Kredit
+TRX-20261015,2026-04-03,2026-04,Jawa Timur,Elektronik & Gadget,1,5558807,5558807,QRIS / E-Wallet
+TRX-20261076,2026-04-03,2026-04,DKI Jakarta,Fashion & Busana,1,620504,620504,Tunai
+TRX-20261074,2026-04-03,2026-04,Jawa Barat,Fashion & Busana,2,427250,854500,Kartu Kredit
+TRX-20260673,2026-04-03,2026-04,DKI Jakarta,Fashion & Busana,1,536035,536035,Tunai
+TRX-20260430,2026-04-03,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,4,142375,569500,QRIS / E-Wallet
+TRX-20260696,2026-04-04,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,2,117759,235518,Kartu Kredit
+TRX-20260129,2026-04-04,2026-04,DKI Jakarta,Peralatan Rumah Tangga,3,1271124,3813372,Kartu Kredit
+TRX-20261131,2026-04-04,2026-04,Jawa Barat,Elektronik & Gadget,1,6036212,6036212,QRIS / E-Wallet
+TRX-20261147,2026-04-04,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,2,41339,82678,Transfer Bank
+TRX-20260793,2026-04-05,2026-04,Jawa Barat,Peralatan Rumah Tangga,2,1315387,2630774,QRIS / E-Wallet
+TRX-20260645,2026-04-06,2026-04,DKI Jakarta,Elektronik & Gadget,1,4747930,4747930,QRIS / E-Wallet
+TRX-20260025,2026-04-06,2026-04,Jawa Barat,Fashion & Busana,1,617743,617743,Tunai
+TRX-20260169,2026-04-06,2026-04,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,71445,71445,Tunai
+TRX-20260902,2026-04-07,2026-04,Jawa Tengah,Peralatan Rumah Tangga,2,1121288,2242576,QRIS / E-Wallet
+TRX-20260575,2026-04-07,2026-04,Jawa Barat,Fashion & Busana,2,284421,568842,Tunai
+TRX-20260107,2026-04-08,2026-04,Jawa Tengah,Elektronik & Gadget,1,1601812,1601812,Kartu Kredit
+TRX-20260670,2026-04-08,2026-04,DKI Jakarta,Peralatan Rumah Tangga,2,527048,1054096,Tunai
+TRX-20260949,2026-04-08,2026-04,Jawa Tengah,Peralatan Rumah Tangga,2,832393,1664786,QRIS / E-Wallet
+TRX-20260876,2026-04-09,2026-04,Jawa Barat,Bahan Makanan & Kuliner,1,166591,166591,Transfer Bank
+TRX-20261141,2026-04-09,2026-04,Jawa Barat,Peralatan Rumah Tangga,5,504569,2522845,Transfer Bank
+TRX-20260210,2026-04-09,2026-04,Jawa Barat,Elektronik & Gadget,4,8283718,33134872,QRIS / E-Wallet
+TRX-20260001,2026-04-10,2026-04,DKI Jakarta,Elektronik & Gadget,3,1906585,5719755,Kartu Kredit
+TRX-20260298,2026-04-10,2026-04,Jawa Barat,Fashion & Busana,2,255664,511328,Transfer Bank
+TRX-20260918,2026-04-10,2026-04,Bali & Nusa Tenggara,Fashion & Busana,1,204941,204941,Kartu Kredit
+TRX-20261187,2026-04-10,2026-04,Jawa Tengah,Peralatan Rumah Tangga,1,1041043,1041043,QRIS / E-Wallet
+TRX-20260506,2026-04-10,2026-04,Jawa Timur,Peralatan Rumah Tangga,2,367410,734820,Tunai
+TRX-20260507,2026-04-10,2026-04,Jawa Tengah,Fashion & Busana,2,576416,1152832,QRIS / E-Wallet
+TRX-20260994,2026-04-11,2026-04,Jawa Barat,Bahan Makanan & Kuliner,1,215440,215440,QRIS / E-Wallet
+TRX-20261178,2026-04-11,2026-04,Jawa Tengah,Fashion & Busana,1,361257,361257,Transfer Bank
+TRX-20260068,2026-04-11,2026-04,Jawa Tengah,Bahan Makanan & Kuliner,3,50057,150171,QRIS / E-Wallet
+TRX-20260726,2026-04-11,2026-04,Jawa Tengah,Elektronik & Gadget,1,5165105,5165105,QRIS / E-Wallet
+TRX-20260760,2026-04-11,2026-04,DKI Jakarta,Elektronik & Gadget,2,1853914,3707828,Tunai
+TRX-20260502,2026-04-11,2026-04,Bali & Nusa Tenggara,Elektronik & Gadget,4,3279619,13118476,Tunai
+TRX-20260402,2026-04-11,2026-04,Jawa Barat,Fashion & Busana,3,498938,1496814,Transfer Bank
+TRX-20260189,2026-04-12,2026-04,Jawa Barat,Elektronik & Gadget,1,2044357,2044357,Kartu Kredit
+TRX-20260308,2026-04-12,2026-04,Jawa Barat,Elektronik & Gadget,1,1866372,1866372,Transfer Bank
+TRX-20260928,2026-04-13,2026-04,Jawa Tengah,Fashion & Busana,2,262242,524484,Transfer Bank
+TRX-20260740,2026-04-13,2026-04,Jawa Tengah,Fashion & Busana,1,557621,557621,QRIS / E-Wallet
+TRX-20260854,2026-04-13,2026-04,Jawa Barat,Fashion & Busana,2,222748,445496,QRIS / E-Wallet
+TRX-20260622,2026-04-13,2026-04,Jawa Barat,Bahan Makanan & Kuliner,3,157385,472155,QRIS / E-Wallet
+TRX-20261163,2026-04-13,2026-04,DKI Jakarta,Elektronik & Gadget,1,6148231,6148231,QRIS / E-Wallet
+TRX-20260196,2026-04-13,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,1,170287,170287,Kartu Kredit
+TRX-20260521,2026-04-14,2026-04,Bali & Nusa Tenggara,Elektronik & Gadget,2,6201495,12402990,QRIS / E-Wallet
+TRX-20260468,2026-04-14,2026-04,DKI Jakarta,Fashion & Busana,4,646524,2586096,Tunai
+TRX-20260660,2026-04-14,2026-04,Jawa Tengah,Bahan Makanan & Kuliner,1,183000,183000,Transfer Bank
+TRX-20260638,2026-04-14,2026-04,DKI Jakarta,Fashion & Busana,1,487719,487719,Tunai
+TRX-20260188,2026-04-14,2026-04,Jawa Barat,Elektronik & Gadget,1,6597321,6597321,Kartu Kredit
+TRX-20260140,2026-04-14,2026-04,Jawa Barat,Bahan Makanan & Kuliner,1,158181,158181,Kartu Kredit
+TRX-20260563,2026-04-14,2026-04,DKI Jakarta,Fashion & Busana,3,612102,1836306,Kartu Kredit
+TRX-20260545,2026-04-15,2026-04,DKI Jakarta,Elektronik & Gadget,1,5041705,5041705,QRIS / E-Wallet
+TRX-20261143,2026-04-15,2026-04,DKI Jakarta,Elektronik & Gadget,1,2501433,2501433,Transfer Bank
+TRX-20260057,2026-04-16,2026-04,DKI Jakarta,Elektronik & Gadget,5,2429217,12146085,QRIS / E-Wallet
+TRX-20260680,2026-04-16,2026-04,DKI Jakarta,Fashion & Busana,8,394189,3153512,Kartu Kredit
+TRX-20260990,2026-04-16,2026-04,Jawa Barat,Elektronik & Gadget,3,8047761,24143283,Transfer Bank
+TRX-20260762,2026-04-16,2026-04,DKI Jakarta,Fashion & Busana,1,384416,384416,QRIS / E-Wallet
+TRX-20260380,2026-04-16,2026-04,DKI Jakarta,Fashion & Busana,1,92572,92572,Tunai
+TRX-20260772,2026-04-17,2026-04,DKI Jakarta,Peralatan Rumah Tangga,4,388032,1552128,Kartu Kredit
+TRX-20260267,2026-04-17,2026-04,Jawa Tengah,Fashion & Busana,1,287976,287976,QRIS / E-Wallet
+TRX-20260602,2026-04-17,2026-04,Bali & Nusa Tenggara,Peralatan Rumah Tangga,2,784244,1568488,Tunai
+TRX-20260584,2026-04-18,2026-04,Jawa Barat,Peralatan Rumah Tangga,1,515396,515396,Kartu Kredit
+TRX-20260980,2026-04-18,2026-04,Bali & Nusa Tenggara,Elektronik & Gadget,4,6762395,27049580,QRIS / E-Wallet
+TRX-20260199,2026-04-18,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,1,126432,126432,Kartu Kredit
+TRX-20260985,2026-04-18,2026-04,Jawa Tengah,Elektronik & Gadget,1,4110998,4110998,QRIS / E-Wallet
+TRX-20260939,2026-04-18,2026-04,DKI Jakarta,Fashion & Busana,2,414467,828934,Kartu Kredit
+TRX-20261035,2026-04-18,2026-04,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,666780,666780,Tunai
+TRX-20260948,2026-04-18,2026-04,Jawa Barat,Fashion & Busana,2,308614,617228,Tunai
+TRX-20260867,2026-04-19,2026-04,Jawa Timur,Bahan Makanan & Kuliner,3,100553,301659,Tunai
+TRX-20260304,2026-04-19,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,4,90759,363036,Tunai
+TRX-20260463,2026-04-19,2026-04,Bali & Nusa Tenggara,Elektronik & Gadget,1,5748141,5748141,Transfer Bank
+TRX-20260465,2026-04-19,2026-04,DKI Jakarta,Peralatan Rumah Tangga,1,705786,705786,QRIS / E-Wallet
+TRX-20260856,2026-04-19,2026-04,Jawa Barat,Bahan Makanan & Kuliner,2,75926,151852,QRIS / E-Wallet
+TRX-20260790,2026-04-19,2026-04,Jawa Timur,Peralatan Rumah Tangga,2,1341468,2682936,Kartu Kredit
+TRX-20260974,2026-04-20,2026-04,Jawa Barat,Bahan Makanan & Kuliner,1,192855,192855,Tunai
+TRX-20260154,2026-04-20,2026-04,DKI Jakarta,Fashion & Busana,8,148979,1191832,Kartu Kredit
+TRX-20260796,2026-04-21,2026-04,DKI Jakarta,Peralatan Rumah Tangga,1,736872,736872,Transfer Bank
+TRX-20260111,2026-04-21,2026-04,DKI Jakarta,Fashion & Busana,2,203158,406316,Kartu Kredit
+TRX-20260488,2026-04-21,2026-04,DKI Jakarta,Elektronik & Gadget,1,2010312,2010312,Transfer Bank
+TRX-20260467,2026-04-21,2026-04,Jawa Timur,Elektronik & Gadget,8,5580890,44647120,Tunai
+TRX-20260964,2026-04-22,2026-04,DKI Jakarta,Elektronik & Gadget,3,6596085,19788255,QRIS / E-Wallet
+TRX-20260661,2026-04-22,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,4,113317,453268,Kartu Kredit
+TRX-20261190,2026-04-22,2026-04,Jawa Barat,Elektronik & Gadget,1,8191322,8191322,Transfer Bank
+TRX-20260574,2026-04-23,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,1,73264,73264,QRIS / E-Wallet
+TRX-20260164,2026-04-24,2026-04,Jawa Barat,Fashion & Busana,1,381280,381280,Kartu Kredit
+TRX-20261116,2026-04-24,2026-04,DKI Jakarta,Elektronik & Gadget,1,6006038,6006038,QRIS / E-Wallet
+TRX-20261171,2026-04-24,2026-04,DKI Jakarta,Fashion & Busana,3,297423,892269,Tunai
+TRX-20260573,2026-04-24,2026-04,Jawa Timur,Bahan Makanan & Kuliner,1,180352,180352,Kartu Kredit
+TRX-20260276,2026-04-24,2026-04,DKI Jakarta,Peralatan Rumah Tangga,2,1376336,2752672,Transfer Bank
+TRX-20260217,2026-04-25,2026-04,Jawa Timur,Elektronik & Gadget,2,7680343,15360686,Tunai
+TRX-20260176,2026-04-25,2026-04,Jawa Barat,Peralatan Rumah Tangga,1,1183807,1183807,QRIS / E-Wallet
+TRX-20260543,2026-04-26,2026-04,Jawa Barat,Bahan Makanan & Kuliner,3,94638,283914,QRIS / E-Wallet
+TRX-20260549,2026-04-26,2026-04,DKI Jakarta,Bahan Makanan & Kuliner,1,117885,117885,Tunai
+TRX-20260023,2026-04-26,2026-04,Jawa Barat,Elektronik & Gadget,1,3095546,3095546,Kartu Kredit
+TRX-20260470,2026-04-27,2026-04,Jawa Barat,Fashion & Busana,5,213678,1068390,Transfer Bank
+TRX-20260448,2026-04-27,2026-04,Jawa Timur,Elektronik & Gadget,2,2702939,5405878,Transfer Bank
+TRX-20260415,2026-04-27,2026-04,Jawa Barat,Fashion & Busana,1,205144,205144,Tunai
+TRX-20261083,2026-04-27,2026-04,DKI Jakarta,Fashion & Busana,1,446852,446852,Transfer Bank
+TRX-20260625,2026-04-28,2026-04,Jawa Timur,Peralatan Rumah Tangga,3,1212446,3637338,Transfer Bank
+TRX-20261174,2026-04-28,2026-04,Jawa Barat,Bahan Makanan & Kuliner,2,57783,115566,QRIS / E-Wallet
+TRX-20260372,2026-04-28,2026-04,Jawa Tengah,Peralatan Rumah Tangga,2,1139562,2279124,QRIS / E-Wallet
+TRX-20260121,2026-04-29,2026-04,Jawa Barat,Fashion & Busana,1,385928,385928,Transfer Bank
+TRX-20260514,2026-04-29,2026-04,Jawa Tengah,Elektronik & Gadget,3,4283533,12850599,Kartu Kredit
+TRX-20261036,2026-04-29,2026-04,DKI Jakarta,Fashion & Busana,3,86530,259590,Transfer Bank
+TRX-20260958,2026-04-29,2026-04,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,2,206076,412152,Transfer Bank
+TRX-20260037,2026-04-30,2026-04,Jawa Timur,Bahan Makanan & Kuliner,4,199936,799744,Tunai
+TRX-20260425,2026-04-30,2026-04,DKI Jakarta,Peralatan Rumah Tangga,2,1008180,2016360,Kartu Kredit
+TRX-20261102,2026-04-30,2026-04,Jawa Timur,Elektronik & Gadget,1,2637928,2637928,Kartu Kredit
+TRX-20260686,2026-04-30,2026-04,DKI Jakarta,Fashion & Busana,1,458842,458842,Transfer Bank
+TRX-20261158,2026-04-30,2026-04,Jawa Barat,Fashion & Busana,1,408616,408616,Tunai
+TRX-20260934,2026-04-30,2026-04,Jawa Barat,Elektronik & Gadget,2,2915045,5830090,Tunai
+TRX-20260995,2026-05-01,2026-05,DKI Jakarta,Peralatan Rumah Tangga,2,1105356,2210712,QRIS / E-Wallet
+TRX-20260498,2026-05-01,2026-05,Jawa Barat,Peralatan Rumah Tangga,4,230011,920044,Kartu Kredit
+TRX-20260961,2026-05-01,2026-05,Bali & Nusa Tenggara,Elektronik & Gadget,2,6451983,12903966,QRIS / E-Wallet
+TRX-20260605,2026-05-01,2026-05,DKI Jakarta,Fashion & Busana,1,487822,487822,Transfer Bank
+TRX-20261145,2026-05-01,2026-05,Jawa Tengah,Peralatan Rumah Tangga,1,1007551,1007551,Transfer Bank
+TRX-20260080,2026-05-02,2026-05,Jawa Barat,Peralatan Rumah Tangga,8,1415750,11326000,Kartu Kredit
+TRX-20260452,2026-05-02,2026-05,Jawa Barat,Fashion & Busana,2,128852,257704,Tunai
+TRX-20260461,2026-05-02,2026-05,DKI Jakarta,Bahan Makanan & Kuliner,1,114411,114411,Transfer Bank
+TRX-20260093,2026-05-02,2026-05,DKI Jakarta,Fashion & Busana,1,145317,145317,Transfer Bank
+TRX-20261173,2026-05-03,2026-05,Jawa Tengah,Peralatan Rumah Tangga,1,740278,740278,Kartu Kredit
+TRX-20260213,2026-05-03,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,728384,728384,QRIS / E-Wallet
+TRX-20260421,2026-05-04,2026-05,Jawa Timur,Peralatan Rumah Tangga,2,946388,1892776,Tunai
+TRX-20260903,2026-05-05,2026-05,DKI Jakarta,Elektronik & Gadget,1,6438938,6438938,Kartu Kredit
+TRX-20260391,2026-05-05,2026-05,Jawa Tengah,Peralatan Rumah Tangga,1,1009799,1009799,Tunai
+TRX-20260783,2026-05-05,2026-05,DKI Jakarta,Elektronik & Gadget,2,7732690,15465380,QRIS / E-Wallet
+TRX-20260028,2026-05-06,2026-05,DKI Jakarta,Elektronik & Gadget,2,3915498,7830996,Tunai
+TRX-20260882,2026-05-06,2026-05,DKI Jakarta,Peralatan Rumah Tangga,3,249685,749055,QRIS / E-Wallet
+TRX-20260849,2026-05-06,2026-05,DKI Jakarta,Fashion & Busana,1,379864,379864,Transfer Bank
+TRX-20260122,2026-05-06,2026-05,DKI Jakarta,Bahan Makanan & Kuliner,1,188938,188938,QRIS / E-Wallet
+TRX-20260913,2026-05-06,2026-05,Jawa Barat,Fashion & Busana,5,332835,1664175,QRIS / E-Wallet
+TRX-20260152,2026-05-07,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,1170812,1170812,Tunai
+TRX-20260495,2026-05-07,2026-05,DKI Jakarta,Elektronik & Gadget,3,7673945,23021835,Tunai
+TRX-20260617,2026-05-07,2026-05,DKI Jakarta,Fashion & Busana,1,179316,179316,Kartu Kredit
+TRX-20260358,2026-05-08,2026-05,Jawa Barat,Bahan Makanan & Kuliner,2,195297,390594,Tunai
+TRX-20260483,2026-05-08,2026-05,Jawa Timur,Elektronik & Gadget,3,6773995,20321985,QRIS / E-Wallet
+TRX-20260677,2026-05-08,2026-05,DKI Jakarta,Elektronik & Gadget,3,4849472,14548416,Kartu Kredit
+TRX-20260041,2026-05-08,2026-05,Jawa Barat,Bahan Makanan & Kuliner,3,151678,455034,Tunai
+TRX-20260059,2026-05-09,2026-05,DKI Jakarta,Elektronik & Gadget,2,4498201,8996402,QRIS / E-Wallet
+TRX-20260794,2026-05-09,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,420217,420217,Kartu Kredit
+TRX-20260282,2026-05-09,2026-05,DKI Jakarta,Peralatan Rumah Tangga,3,541870,1625610,Transfer Bank
+TRX-20260863,2026-05-09,2026-05,DKI Jakarta,Fashion & Busana,4,508670,2034680,QRIS / E-Wallet
+TRX-20260338,2026-05-09,2026-05,Jawa Timur,Peralatan Rumah Tangga,1,1166581,1166581,Tunai
+TRX-20260134,2026-05-10,2026-05,DKI Jakarta,Elektronik & Gadget,1,8429721,8429721,Kartu Kredit
+TRX-20260197,2026-05-11,2026-05,Jawa Tengah,Fashion & Busana,1,401782,401782,Tunai
+TRX-20261129,2026-05-11,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,1360360,1360360,Tunai
+TRX-20260005,2026-05-11,2026-05,Jawa Timur,Bahan Makanan & Kuliner,8,99580,796640,Kartu Kredit
+TRX-20261090,2026-05-12,2026-05,Jawa Barat,Peralatan Rumah Tangga,2,393476,786952,QRIS / E-Wallet
+TRX-20260685,2026-05-12,2026-05,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,2,120476,240952,Tunai
+TRX-20260431,2026-05-12,2026-05,Jawa Tengah,Bahan Makanan & Kuliner,2,140380,280760,Tunai
+TRX-20260364,2026-05-12,2026-05,Jawa Tengah,Peralatan Rumah Tangga,1,1445124,1445124,Tunai
+TRX-20260109,2026-05-13,2026-05,Jawa Timur,Fashion & Busana,3,436478,1309434,Transfer Bank
+TRX-20260406,2026-05-13,2026-05,Bali & Nusa Tenggara,Fashion & Busana,4,491434,1965736,Tunai
+TRX-20260614,2026-05-14,2026-05,Jawa Timur,Elektronik & Gadget,1,2656991,2656991,Transfer Bank
+TRX-20261040,2026-05-14,2026-05,Jawa Tengah,Elektronik & Gadget,1,3528095,3528095,Tunai
+TRX-20260835,2026-05-16,2026-05,Jawa Barat,Fashion & Busana,1,89143,89143,QRIS / E-Wallet
+TRX-20260710,2026-05-17,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,1368865,1368865,Tunai
+TRX-20260618,2026-05-17,2026-05,Jawa Barat,Bahan Makanan & Kuliner,8,136522,1092176,Transfer Bank
+TRX-20260392,2026-05-18,2026-05,Bali & Nusa Tenggara,Elektronik & Gadget,3,5087518,15262554,Kartu Kredit
+TRX-20260639,2026-05-18,2026-05,Jawa Barat,Bahan Makanan & Kuliner,3,192995,578985,Kartu Kredit
+TRX-20260343,2026-05-19,2026-05,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,93884,93884,Kartu Kredit
+TRX-20260466,2026-05-19,2026-05,Jawa Barat,Fashion & Busana,1,467723,467723,Kartu Kredit
+TRX-20260701,2026-05-19,2026-05,Jawa Barat,Fashion & Busana,1,537816,537816,Kartu Kredit
+TRX-20260921,2026-05-20,2026-05,Jawa Timur,Bahan Makanan & Kuliner,1,62883,62883,Tunai
+TRX-20261126,2026-05-20,2026-05,Jawa Tengah,Peralatan Rumah Tangga,5,566091,2830455,Transfer Bank
+TRX-20260806,2026-05-20,2026-05,Jawa Barat,Peralatan Rumah Tangga,3,1051574,3154722,QRIS / E-Wallet
+TRX-20260086,2026-05-21,2026-05,Jawa Barat,Peralatan Rumah Tangga,1,267892,267892,Transfer Bank
+TRX-20260436,2026-05-21,2026-05,Jawa Barat,Bahan Makanan & Kuliner,1,79733,79733,QRIS / E-Wallet
+TRX-20260758,2026-05-21,2026-05,Jawa Timur,Fashion & Busana,1,194862,194862,QRIS / E-Wallet
+TRX-20260565,2026-05-21,2026-05,DKI Jakarta,Fashion & Busana,1,540995,540995,Tunai
+TRX-20260314,2026-05-22,2026-05,DKI Jakarta,Peralatan Rumah Tangga,2,1160097,2320194,Kartu Kredit
+TRX-20260385,2026-05-22,2026-05,Jawa Tengah,Bahan Makanan & Kuliner,1,207680,207680,Transfer Bank
+TRX-20260052,2026-05-22,2026-05,Jawa Timur,Fashion & Busana,2,536036,1072072,Kartu Kredit
+TRX-20260992,2026-05-23,2026-05,Jawa Tengah,Bahan Makanan & Kuliner,1,206233,206233,QRIS / E-Wallet
+TRX-20260079,2026-05-24,2026-05,Jawa Timur,Bahan Makanan & Kuliner,4,66481,265924,QRIS / E-Wallet
+TRX-20261005,2026-05-25,2026-05,Jawa Barat,Peralatan Rumah Tangga,1,534137,534137,QRIS / E-Wallet
+TRX-20261010,2026-05-25,2026-05,Jawa Tengah,Bahan Makanan & Kuliner,1,174344,174344,QRIS / E-Wallet
+TRX-20260236,2026-05-25,2026-05,DKI Jakarta,Fashion & Busana,1,391926,391926,Tunai
+TRX-20261115,2026-05-26,2026-05,DKI Jakarta,Bahan Makanan & Kuliner,4,73515,294060,Tunai
+TRX-20261101,2026-05-26,2026-05,DKI Jakarta,Elektronik & Gadget,1,5868793,5868793,QRIS / E-Wallet
+TRX-20260204,2026-05-26,2026-05,DKI Jakarta,Fashion & Busana,3,252806,758418,QRIS / E-Wallet
+TRX-20260440,2026-05-27,2026-05,Jawa Barat,Bahan Makanan & Kuliner,2,30785,61570,Kartu Kredit
+TRX-20260032,2026-05-27,2026-05,DKI Jakarta,Bahan Makanan & Kuliner,1,157125,157125,Kartu Kredit
+TRX-20260472,2026-05-27,2026-05,Jawa Barat,Fashion & Busana,5,104470,522350,Tunai
+TRX-20261195,2026-05-27,2026-05,Jawa Tengah,Fashion & Busana,1,150317,150317,QRIS / E-Wallet
+TRX-20260716,2026-05-29,2026-05,Jawa Barat,Fashion & Busana,4,497287,1989148,QRIS / E-Wallet
+TRX-20260155,2026-05-29,2026-05,Jawa Barat,Peralatan Rumah Tangga,2,1276962,2553924,QRIS / E-Wallet
+TRX-20260353,2026-05-29,2026-05,Bali & Nusa Tenggara,Fashion & Busana,2,392369,784738,Transfer Bank
+TRX-20260300,2026-05-30,2026-05,DKI Jakarta,Bahan Makanan & Kuliner,1,193245,193245,Kartu Kredit
+TRX-20260159,2026-05-30,2026-05,DKI Jakarta,Elektronik & Gadget,3,3680312,11040936,Transfer Bank
+TRX-20260411,2026-05-30,2026-05,Jawa Tengah,Bahan Makanan & Kuliner,2,151973,303946,Tunai
+TRX-20260720,2026-05-31,2026-05,Jawa Tengah,Peralatan Rumah Tangga,2,1211904,2423808,Tunai
+TRX-20260572,2026-05-31,2026-05,DKI Jakarta,Peralatan Rumah Tangga,1,329173,329173,Transfer Bank
+TRX-20260185,2026-06-01,2026-06,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,210114,210114,QRIS / E-Wallet
+TRX-20260369,2026-06-01,2026-06,DKI Jakarta,Peralatan Rumah Tangga,1,782680,782680,Transfer Bank
+TRX-20260127,2026-06-01,2026-06,Jawa Timur,Peralatan Rumah Tangga,3,236890,710670,Kartu Kredit
+TRX-20260342,2026-06-01,2026-06,DKI Jakarta,Elektronik & Gadget,2,6723450,13446900,Tunai
+TRX-20260297,2026-06-01,2026-06,Jawa Barat,Elektronik & Gadget,4,4025407,16101628,Transfer Bank
+TRX-20260875,2026-06-02,2026-06,Jawa Tengah,Fashion & Busana,1,115773,115773,Kartu Kredit
+TRX-20260207,2026-06-02,2026-06,Jawa Tengah,Peralatan Rumah Tangga,2,741644,1483288,Tunai
+TRX-20260141,2026-06-02,2026-06,Jawa Barat,Bahan Makanan & Kuliner,1,130257,130257,Kartu Kredit
+TRX-20260587,2026-06-03,2026-06,Jawa Barat,Bahan Makanan & Kuliner,4,193888,775552,QRIS / E-Wallet
+TRX-20260187,2026-06-03,2026-06,Jawa Barat,Fashion & Busana,1,422216,422216,QRIS / E-Wallet
+TRX-20261123,2026-06-03,2026-06,Jawa Barat,Elektronik & Gadget,2,7882094,15764188,QRIS / E-Wallet
+TRX-20260220,2026-06-04,2026-06,Jawa Tengah,Elektronik & Gadget,1,8010632,8010632,Kartu Kredit
+TRX-20261071,2026-06-04,2026-06,Jawa Timur,Peralatan Rumah Tangga,3,776992,2330976,Transfer Bank
+TRX-20260642,2026-06-05,2026-06,Jawa Barat,Bahan Makanan & Kuliner,1,88279,88279,Transfer Bank
+TRX-20260624,2026-06-05,2026-06,Jawa Tengah,Bahan Makanan & Kuliner,1,74388,74388,Tunai
+TRX-20261181,2026-06-05,2026-06,Jawa Barat,Bahan Makanan & Kuliner,1,65972,65972,Transfer Bank
+TRX-20260531,2026-06-05,2026-06,Jawa Tengah,Peralatan Rumah Tangga,3,1174880,3524640,QRIS / E-Wallet
+TRX-20260291,2026-06-05,2026-06,Jawa Barat,Fashion & Busana,4,463604,1854416,Tunai
+TRX-20260938,2026-06-06,2026-06,DKI Jakarta,Peralatan Rumah Tangga,1,556024,556024,Transfer Bank
+TRX-20260318,2026-06-07,2026-06,Jawa Tengah,Fashion & Busana,2,439791,879582,Kartu Kredit
+TRX-20260490,2026-06-07,2026-06,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,2,189234,378468,QRIS / E-Wallet
+TRX-20260310,2026-06-07,2026-06,Jawa Barat,Bahan Makanan & Kuliner,2,64182,128364,Tunai
+TRX-20261031,2026-06-07,2026-06,Jawa Timur,Bahan Makanan & Kuliner,2,132318,264636,Tunai
+TRX-20260045,2026-06-07,2026-06,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,8,33502,268016,QRIS / E-Wallet
+TRX-20260042,2026-06-07,2026-06,Bali & Nusa Tenggara,Fashion & Busana,1,444527,444527,QRIS / E-Wallet
+TRX-20260146,2026-06-08,2026-06,Jawa Barat,Peralatan Rumah Tangga,3,574968,1724904,QRIS / E-Wallet
+TRX-20260782,2026-06-08,2026-06,Jawa Timur,Bahan Makanan & Kuliner,1,166229,166229,Transfer Bank
+TRX-20260280,2026-06-08,2026-06,Jawa Tengah,Peralatan Rumah Tangga,1,1120728,1120728,Tunai
+TRX-20260541,2026-06-09,2026-06,Jawa Barat,Fashion & Busana,8,604535,4836280,Kartu Kredit
+TRX-20260244,2026-06-10,2026-06,Jawa Barat,Elektronik & Gadget,1,4876494,4876494,Tunai
+TRX-20260815,2026-06-10,2026-06,DKI Jakarta,Fashion & Busana,3,147832,443496,QRIS / E-Wallet
+TRX-20260387,2026-06-10,2026-06,DKI Jakarta,Peralatan Rumah Tangga,1,1406583,1406583,Tunai
+TRX-20260797,2026-06-10,2026-06,Jawa Tengah,Bahan Makanan & Kuliner,1,158027,158027,Kartu Kredit
+TRX-20260616,2026-06-11,2026-06,Jawa Barat,Elektronik & Gadget,1,3979899,3979899,Tunai
+TRX-20260784,2026-06-11,2026-06,Jawa Timur,Elektronik & Gadget,2,2129137,4258274,Tunai
+TRX-20260464,2026-06-11,2026-06,DKI Jakarta,Fashion & Busana,2,172091,344182,QRIS / E-Wallet
+TRX-20261112,2026-06-11,2026-06,Jawa Tengah,Elektronik & Gadget,8,5777990,46223920,Kartu Kredit
+TRX-20260725,2026-06-11,2026-06,DKI Jakarta,Elektronik & Gadget,1,6974355,6974355,Tunai
+TRX-20260319,2026-06-12,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,1,84412,84412,Transfer Bank
+TRX-20260512,2026-06-12,2026-06,Jawa Barat,Peralatan Rumah Tangga,4,1063479,4253916,Kartu Kredit
+TRX-20260542,2026-06-12,2026-06,DKI Jakarta,Fashion & Busana,3,306738,920214,Kartu Kredit
+TRX-20261067,2026-06-13,2026-06,Jawa Barat,Bahan Makanan & Kuliner,1,209641,209641,QRIS / E-Wallet
+TRX-20260264,2026-06-13,2026-06,Bali & Nusa Tenggara,Peralatan Rumah Tangga,2,463317,926634,Kartu Kredit
+TRX-20260184,2026-06-13,2026-06,Jawa Tengah,Elektronik & Gadget,1,7359552,7359552,Kartu Kredit
+TRX-20260786,2026-06-13,2026-06,Jawa Tengah,Peralatan Rumah Tangga,1,925290,925290,Transfer Bank
+TRX-20261142,2026-06-14,2026-06,Bali & Nusa Tenggara,Fashion & Busana,2,410322,820644,Tunai
+TRX-20260024,2026-06-14,2026-06,Jawa Tengah,Elektronik & Gadget,1,5075231,5075231,Transfer Bank
+TRX-20260900,2026-06-14,2026-06,DKI Jakarta,Fashion & Busana,1,85928,85928,QRIS / E-Wallet
+TRX-20260170,2026-06-14,2026-06,DKI Jakarta,Peralatan Rumah Tangga,1,1224192,1224192,Transfer Bank
+TRX-20260108,2026-06-15,2026-06,Jawa Barat,Fashion & Busana,1,595849,595849,Kartu Kredit
+TRX-20260246,2026-06-15,2026-06,Jawa Barat,Peralatan Rumah Tangga,1,595875,595875,Transfer Bank
+TRX-20261124,2026-06-15,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,3,203767,611301,Transfer Bank
+TRX-20260675,2026-06-15,2026-06,Jawa Timur,Elektronik & Gadget,3,7787666,23362998,Kartu Kredit
+TRX-20260997,2026-06-16,2026-06,Jawa Tengah,Elektronik & Gadget,1,3599505,3599505,QRIS / E-Wallet
+TRX-20260564,2026-06-16,2026-06,Jawa Timur,Fashion & Busana,2,605361,1210722,QRIS / E-Wallet
+TRX-20260936,2026-06-17,2026-06,Jawa Tengah,Peralatan Rumah Tangga,5,335053,1675265,QRIS / E-Wallet
+TRX-20261042,2026-06-17,2026-06,Jawa Tengah,Peralatan Rumah Tangga,1,1184182,1184182,Kartu Kredit
+TRX-20260082,2026-06-17,2026-06,DKI Jakarta,Peralatan Rumah Tangga,1,1235179,1235179,Transfer Bank
+TRX-20260480,2026-06-18,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,3,150671,452013,Tunai
+TRX-20261094,2026-06-18,2026-06,Jawa Barat,Elektronik & Gadget,1,3157946,3157946,Transfer Bank
+TRX-20261119,2026-06-19,2026-06,Jawa Tengah,Elektronik & Gadget,1,5606212,5606212,Tunai
+TRX-20260998,2026-06-19,2026-06,Jawa Tengah,Fashion & Busana,2,117426,234852,Transfer Bank
+TRX-20260855,2026-06-19,2026-06,Jawa Barat,Elektronik & Gadget,3,1984074,5952222,Tunai
+TRX-20261045,2026-06-20,2026-06,Jawa Timur,Elektronik & Gadget,1,4364278,4364278,Transfer Bank
+TRX-20261100,2026-06-20,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,1,44177,44177,QRIS / E-Wallet
+TRX-20260799,2026-06-20,2026-06,DKI Jakarta,Fashion & Busana,1,646996,646996,Tunai
+TRX-20261176,2026-06-20,2026-06,Bali & Nusa Tenggara,Elektronik & Gadget,2,1727295,3454590,Tunai
+TRX-20261011,2026-06-20,2026-06,DKI Jakarta,Elektronik & Gadget,4,4400858,17603432,Tunai
+TRX-20260151,2026-06-20,2026-06,Bali & Nusa Tenggara,Elektronik & Gadget,2,3292108,6584216,Tunai
+TRX-20261017,2026-06-21,2026-06,DKI Jakarta,Fashion & Busana,1,373409,373409,QRIS / E-Wallet
+TRX-20260826,2026-06-21,2026-06,DKI Jakarta,Elektronik & Gadget,2,4578989,9157978,Kartu Kredit
+TRX-20260351,2026-06-21,2026-06,DKI Jakarta,Elektronik & Gadget,4,3416539,13666156,Transfer Bank
+TRX-20261103,2026-06-21,2026-06,Jawa Timur,Fashion & Busana,1,439115,439115,Kartu Kredit
+TRX-20261048,2026-06-22,2026-06,DKI Jakarta,Elektronik & Gadget,2,6762587,13525174,Tunai
+TRX-20260334,2026-06-22,2026-06,DKI Jakarta,Elektronik & Gadget,3,8331116,24993348,QRIS / E-Wallet
+TRX-20260851,2026-06-22,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,2,36539,73078,Tunai
+TRX-20260749,2026-06-24,2026-06,Jawa Barat,Peralatan Rumah Tangga,2,360973,721946,Tunai
+TRX-20260714,2026-06-24,2026-06,Jawa Barat,Fashion & Busana,1,573703,573703,Kartu Kredit
+TRX-20260973,2026-06-24,2026-06,Jawa Barat,Fashion & Busana,1,618234,618234,Transfer Bank
+TRX-20260715,2026-06-25,2026-06,Jawa Tengah,Fashion & Busana,1,512967,512967,QRIS / E-Wallet
+TRX-20261121,2026-06-26,2026-06,Jawa Barat,Elektronik & Gadget,1,3962040,3962040,Transfer Bank
+TRX-20260975,2026-06-26,2026-06,Bali & Nusa Tenggara,Elektronik & Gadget,1,4067588,4067588,Transfer Bank
+TRX-20260942,2026-06-26,2026-06,DKI Jakarta,Peralatan Rumah Tangga,3,876710,2630130,Kartu Kredit
+TRX-20260073,2026-06-26,2026-06,Jawa Tengah,Elektronik & Gadget,3,6754303,20262909,Tunai
+TRX-20260160,2026-06-26,2026-06,Jawa Barat,Bahan Makanan & Kuliner,5,59717,298585,Transfer Bank
+TRX-20261001,2026-06-26,2026-06,Jawa Tengah,Fashion & Busana,3,375686,1127058,Tunai
+TRX-20261034,2026-06-27,2026-06,DKI Jakarta,Fashion & Busana,1,362426,362426,Tunai
+TRX-20260397,2026-06-27,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,1,97526,97526,QRIS / E-Wallet
+TRX-20260888,2026-06-27,2026-06,Jawa Barat,Fashion & Busana,3,180077,540231,QRIS / E-Wallet
+TRX-20261151,2026-06-27,2026-06,Jawa Tengah,Bahan Makanan & Kuliner,1,40419,40419,Kartu Kredit
+TRX-20260133,2026-06-27,2026-06,Jawa Barat,Peralatan Rumah Tangga,2,546454,1092908,QRIS / E-Wallet
+TRX-20260500,2026-06-28,2026-06,DKI Jakarta,Fashion & Busana,4,298182,1192728,Transfer Bank
+TRX-20260667,2026-06-28,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,3,80871,242613,Transfer Bank
+TRX-20260018,2026-06-28,2026-06,DKI Jakarta,Fashion & Busana,1,326560,326560,Kartu Kredit
+TRX-20260697,2026-06-29,2026-06,Jawa Barat,Bahan Makanan & Kuliner,2,69214,138428,Kartu Kredit
+TRX-20260183,2026-06-30,2026-06,Jawa Tengah,Fashion & Busana,1,626624,626624,Transfer Bank
+TRX-20260774,2026-06-30,2026-06,Jawa Tengah,Peralatan Rumah Tangga,1,1439310,1439310,Transfer Bank
+TRX-20260515,2026-06-30,2026-06,DKI Jakarta,Elektronik & Gadget,3,2420627,7261881,Kartu Kredit
+TRX-20260919,2026-06-30,2026-06,DKI Jakarta,Elektronik & Gadget,8,7120869,56966952,Kartu Kredit
+TRX-20260983,2026-06-30,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,2,200353,400706,Kartu Kredit
+TRX-20260941,2026-06-30,2026-06,DKI Jakarta,Bahan Makanan & Kuliner,2,76041,152082,QRIS / E-Wallet
+TRX-20261156,2026-06-30,2026-06,Jawa Barat,Fashion & Busana,2,384036,768072,QRIS / E-Wallet
+TRX-20261175,2026-06-30,2026-06,Jawa Tengah,Peralatan Rumah Tangga,2,891096,1782192,Tunai
+TRX-20260911,2026-07-01,2026-07,DKI Jakarta,Peralatan Rumah Tangga,8,211302,1690416,Tunai
+TRX-20260085,2026-07-01,2026-07,Jawa Tengah,Fashion & Busana,3,132177,396531,Transfer Bank
+TRX-20260989,2026-07-01,2026-07,Jawa Tengah,Elektronik & Gadget,4,5268541,21074164,Kartu Kredit
+TRX-20260776,2026-07-01,2026-07,Jawa Tengah,Peralatan Rumah Tangga,2,551358,1102716,Tunai
+TRX-20261014,2026-07-01,2026-07,Jawa Timur,Peralatan Rumah Tangga,4,196124,784496,QRIS / E-Wallet
+TRX-20260659,2026-07-01,2026-07,DKI Jakarta,Elektronik & Gadget,5,6009797,30048985,Kartu Kredit
+TRX-20260910,2026-07-03,2026-07,Jawa Timur,Peralatan Rumah Tangga,5,553422,2767110,Tunai
+TRX-20261049,2026-07-03,2026-07,Jawa Barat,Fashion & Busana,4,412312,1649248,Tunai
+TRX-20261108,2026-07-04,2026-07,DKI Jakarta,Fashion & Busana,3,205460,616380,QRIS / E-Wallet
+TRX-20260912,2026-07-04,2026-07,DKI Jakarta,Fashion & Busana,1,189479,189479,Kartu Kredit
+TRX-20260259,2026-07-05,2026-07,Jawa Timur,Bahan Makanan & Kuliner,8,152726,1221808,Tunai
+TRX-20260827,2026-07-05,2026-07,Jawa Barat,Elektronik & Gadget,3,4715320,14145960,Kartu Kredit
+TRX-20260603,2026-07-05,2026-07,DKI Jakarta,Fashion & Busana,3,367545,1102635,Tunai
+TRX-20260787,2026-07-06,2026-07,Bali & Nusa Tenggara,Fashion & Busana,1,85628,85628,QRIS / E-Wallet
+TRX-20261059,2026-07-06,2026-07,Jawa Barat,Elektronik & Gadget,4,4613875,18455500,Kartu Kredit
+TRX-20260931,2026-07-06,2026-07,Jawa Timur,Fashion & Busana,1,550558,550558,Transfer Bank
+TRX-20260819,2026-07-06,2026-07,Jawa Barat,Fashion & Busana,1,166060,166060,QRIS / E-Wallet
+TRX-20260172,2026-07-07,2026-07,Jawa Tengah,Elektronik & Gadget,2,2770048,5540096,QRIS / E-Wallet
+TRX-20260723,2026-07-07,2026-07,Jawa Tengah,Elektronik & Gadget,2,5663931,11327862,Kartu Kredit
+TRX-20260000,2026-07-08,2026-07,Jawa Barat,Fashion & Busana,2,622153,1244306,Transfer Bank
+TRX-20260478,2026-07-08,2026-07,Bali & Nusa Tenggara,Peralatan Rumah Tangga,2,716264,1432528,Tunai
+TRX-20261192,2026-07-08,2026-07,DKI Jakarta,Fashion & Busana,1,322007,322007,Transfer Bank
+TRX-20260944,2026-07-08,2026-07,Jawa Tengah,Bahan Makanan & Kuliner,3,169617,508851,QRIS / E-Wallet
+TRX-20260694,2026-07-08,2026-07,DKI Jakarta,Peralatan Rumah Tangga,1,742531,742531,Transfer Bank
+TRX-20260347,2026-07-09,2026-07,Jawa Timur,Bahan Makanan & Kuliner,2,150561,301122,Transfer Bank
+TRX-20260182,2026-07-09,2026-07,Jawa Barat,Bahan Makanan & Kuliner,1,188430,188430,Tunai
+TRX-20260074,2026-07-09,2026-07,Jawa Barat,Fashion & Busana,1,523673,523673,Tunai
+TRX-20261065,2026-07-10,2026-07,Jawa Barat,Bahan Makanan & Kuliner,2,171599,343198,Transfer Bank
+TRX-20260870,2026-07-10,2026-07,DKI Jakarta,Elektronik & Gadget,2,2430496,4860992,QRIS / E-Wallet
+TRX-20260357,2026-07-10,2026-07,DKI Jakarta,Fashion & Busana,2,418546,837092,Kartu Kredit
+TRX-20261019,2026-07-10,2026-07,Jawa Tengah,Peralatan Rumah Tangga,1,1381331,1381331,Kartu Kredit
+TRX-20260895,2026-07-11,2026-07,Jawa Barat,Elektronik & Gadget,1,2672218,2672218,Transfer Bank
+TRX-20260703,2026-07-11,2026-07,Jawa Barat,Fashion & Busana,1,122383,122383,Tunai
+TRX-20260227,2026-07-12,2026-07,DKI Jakarta,Elektronik & Gadget,2,3606744,7213488,Tunai
+TRX-20261009,2026-07-12,2026-07,Jawa Tengah,Fashion & Busana,2,283814,567628,Kartu Kredit
+TRX-20261002,2026-07-14,2026-07,Jawa Tengah,Fashion & Busana,1,490309,490309,Transfer Bank
+TRX-20260173,2026-07-14,2026-07,Jawa Barat,Peralatan Rumah Tangga,1,574617,574617,Tunai
+TRX-20260424,2026-07-15,2026-07,DKI Jakarta,Fashion & Busana,2,254454,508908,Tunai
+TRX-20260226,2026-07-15,2026-07,DKI Jakarta,Bahan Makanan & Kuliner,1,206745,206745,Tunai
+TRX-20260886,2026-07-15,2026-07,Jawa Tengah,Peralatan Rumah Tangga,1,915127,915127,Kartu Kredit
+TRX-20260828,2026-07-15,2026-07,Jawa Barat,Elektronik & Gadget,1,4588053,4588053,QRIS / E-Wallet
+TRX-20260071,2026-07-15,2026-07,Jawa Tengah,Bahan Makanan & Kuliner,1,91421,91421,Transfer Bank
+TRX-20260383,2026-07-15,2026-07,DKI Jakarta,Elektronik & Gadget,1,7845062,7845062,Kartu Kredit
+TRX-20260653,2026-07-16,2026-07,Jawa Timur,Fashion & Busana,4,88020,352080,Transfer Bank
+TRX-20260741,2026-07-16,2026-07,Jawa Timur,Fashion & Busana,1,136626,136626,Kartu Kredit
+TRX-20261022,2026-07-16,2026-07,DKI Jakarta,Fashion & Busana,5,180576,902880,Tunai
+TRX-20260373,2026-07-17,2026-07,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,121752,121752,Tunai
+TRX-20260030,2026-07-17,2026-07,Jawa Barat,Bahan Makanan & Kuliner,2,96717,193434,Kartu Kredit
+TRX-20260788,2026-07-17,2026-07,Jawa Tengah,Bahan Makanan & Kuliner,1,140724,140724,QRIS / E-Wallet
+TRX-20260206,2026-07-17,2026-07,Bali & Nusa Tenggara,Elektronik & Gadget,3,8149728,24449184,Kartu Kredit
+TRX-20260375,2026-07-17,2026-07,Jawa Barat,Elektronik & Gadget,3,1669342,5008026,QRIS / E-Wallet
+TRX-20260732,2026-07-17,2026-07,Jawa Tengah,Bahan Makanan & Kuliner,1,207736,207736,Transfer Bank
+TRX-20261051,2026-07-18,2026-07,DKI Jakarta,Elektronik & Gadget,1,5028929,5028929,QRIS / E-Wallet
+TRX-20260283,2026-07-18,2026-07,Jawa Barat,Bahan Makanan & Kuliner,2,89034,178068,Kartu Kredit
+TRX-20260945,2026-07-19,2026-07,Jawa Tengah,Elektronik & Gadget,2,4313133,8626266,Tunai
+TRX-20261199,2026-07-19,2026-07,DKI Jakarta,Fashion & Busana,5,557080,2785400,Tunai
+TRX-20260192,2026-07-19,2026-07,DKI Jakarta,Bahan Makanan & Kuliner,2,166200,332400,QRIS / E-Wallet
+TRX-20260503,2026-07-20,2026-07,DKI Jakarta,Elektronik & Gadget,4,6232757,24931028,Kartu Kredit
+TRX-20260413,2026-07-20,2026-07,Jawa Tengah,Fashion & Busana,1,472774,472774,QRIS / E-Wallet
+TRX-20261030,2026-07-20,2026-07,DKI Jakarta,Fashion & Busana,1,137233,137233,Kartu Kredit
+TRX-20260744,2026-07-21,2026-07,Jawa Barat,Elektronik & Gadget,1,5332300,5332300,Tunai
+TRX-20260529,2026-07-21,2026-07,DKI Jakarta,Fashion & Busana,1,540935,540935,Kartu Kredit
+TRX-20260009,2026-07-21,2026-07,Jawa Timur,Elektronik & Gadget,1,7395993,7395993,Transfer Bank
+TRX-20260456,2026-07-21,2026-07,Jawa Tengah,Bahan Makanan & Kuliner,1,209595,209595,Tunai
+TRX-20260175,2026-07-21,2026-07,Jawa Barat,Peralatan Rumah Tangga,1,1135595,1135595,Kartu Kredit
+TRX-20260474,2026-07-22,2026-07,Jawa Timur,Elektronik & Gadget,1,6832587,6832587,Kartu Kredit
+TRX-20260721,2026-07-22,2026-07,Jawa Timur,Fashion & Busana,1,269639,269639,QRIS / E-Wallet
+TRX-20260354,2026-07-22,2026-07,DKI Jakarta,Bahan Makanan & Kuliner,2,176407,352814,Transfer Bank
+TRX-20260029,2026-07-22,2026-07,Jawa Barat,Fashion & Busana,2,397384,794768,QRIS / E-Wallet
+TRX-20260458,2026-07-23,2026-07,Jawa Barat,Bahan Makanan & Kuliner,1,96095,96095,Kartu Kredit
+TRX-20260063,2026-07-23,2026-07,DKI Jakarta,Elektronik & Gadget,1,2159098,2159098,Transfer Bank
+TRX-20261197,2026-07-23,2026-07,Bali & Nusa Tenggara,Elektronik & Gadget,4,4734275,18937100,Kartu Kredit
+TRX-20260571,2026-07-23,2026-07,DKI Jakarta,Elektronik & Gadget,2,7100024,14200048,Kartu Kredit
+TRX-20261032,2026-07-25,2026-07,Jawa Tengah,Fashion & Busana,1,587291,587291,Kartu Kredit
+TRX-20260623,2026-07-26,2026-07,Jawa Timur,Bahan Makanan & Kuliner,2,192175,384350,Kartu Kredit
+TRX-20260255,2026-07-26,2026-07,DKI Jakarta,Fashion & Busana,1,209617,209617,Tunai
+TRX-20260643,2026-07-26,2026-07,Jawa Tengah,Elektronik & Gadget,1,5667122,5667122,Kartu Kredit
+TRX-20261086,2026-07-26,2026-07,DKI Jakarta,Peralatan Rumah Tangga,2,314997,629994,QRIS / E-Wallet
+TRX-20260633,2026-07-26,2026-07,DKI Jakarta,Elektronik & Gadget,3,7131462,21394386,Tunai
+TRX-20260668,2026-07-26,2026-07,Jawa Timur,Bahan Makanan & Kuliner,2,142592,285184,Transfer Bank
+TRX-20260996,2026-07-26,2026-07,DKI Jakarta,Bahan Makanan & Kuliner,1,120399,120399,Tunai
+TRX-20260582,2026-07-27,2026-07,Jawa Tengah,Fashion & Busana,1,201013,201013,Tunai
+TRX-20260687,2026-07-27,2026-07,DKI Jakarta,Peralatan Rumah Tangga,1,772717,772717,QRIS / E-Wallet
+TRX-20260699,2026-07-27,2026-07,DKI Jakarta,Peralatan Rumah Tangga,3,1178689,3536067,Kartu Kredit
+TRX-20260929,2026-07-28,2026-07,Jawa Barat,Bahan Makanan & Kuliner,1,183804,183804,Kartu Kredit
+TRX-20260753,2026-07-28,2026-07,DKI Jakarta,Elektronik & Gadget,5,7344630,36723150,Tunai
+TRX-20260362,2026-07-28,2026-07,DKI Jakarta,Elektronik & Gadget,1,6826935,6826935,QRIS / E-Wallet
+TRX-20260599,2026-07-28,2026-07,Bali & Nusa Tenggara,Peralatan Rumah Tangga,3,507689,1523067,Transfer Bank
+TRX-20261193,2026-07-29,2026-07,DKI Jakarta,Fashion & Busana,3,503387,1510161,QRIS / E-Wallet
+TRX-20260407,2026-07-30,2026-07,Jawa Tengah,Peralatan Rumah Tangga,2,1209354,2418708,QRIS / E-Wallet
+TRX-20260131,2026-07-31,2026-07,Jawa Barat,Elektronik & Gadget,2,8275958,16551916,QRIS / E-Wallet
+TRX-20261149,2026-07-31,2026-07,Jawa Barat,Fashion & Busana,1,510713,510713,Transfer Bank
+TRX-20260947,2026-07-31,2026-07,DKI Jakarta,Bahan Makanan & Kuliner,1,119514,119514,Tunai
+TRX-20260095,2026-07-31,2026-07,Jawa Tengah,Fashion & Busana,1,103258,103258,Tunai
+TRX-20260412,2026-07-31,2026-07,Jawa Tengah,Fashion & Busana,2,638194,1276388,Transfer Bank
+TRX-20260408,2026-08-01,2026-08,DKI Jakarta,Fashion & Busana,1,549224,549224,Transfer Bank
+TRX-20260394,2026-08-01,2026-08,Jawa Tengah,Bahan Makanan & Kuliner,1,126280,126280,Tunai
+TRX-20260746,2026-08-02,2026-08,Jawa Timur,Fashion & Busana,1,217151,217151,Kartu Kredit
+TRX-20260118,2026-08-02,2026-08,DKI Jakarta,Elektronik & Gadget,1,2965445,2965445,Tunai
+TRX-20260885,2026-08-02,2026-08,Jawa Timur,Peralatan Rumah Tangga,1,1278764,1278764,QRIS / E-Wallet
+TRX-20261038,2026-08-02,2026-08,Jawa Tengah,Peralatan Rumah Tangga,1,732237,732237,Kartu Kredit
+TRX-20260831,2026-08-03,2026-08,Jawa Timur,Fashion & Busana,3,96876,290628,QRIS / E-Wallet
+TRX-20260636,2026-08-03,2026-08,Jawa Tengah,Bahan Makanan & Kuliner,1,92657,92657,QRIS / E-Wallet
+TRX-20260178,2026-08-03,2026-08,Jawa Tengah,Peralatan Rumah Tangga,1,819167,819167,Transfer Bank
+TRX-20261084,2026-08-04,2026-08,DKI Jakarta,Elektronik & Gadget,3,7022489,21067467,Tunai
+TRX-20261046,2026-08-04,2026-08,Jawa Timur,Fashion & Busana,1,543569,543569,Kartu Kredit
+TRX-20260671,2026-08-04,2026-08,DKI Jakarta,Elektronik & Gadget,1,4824656,4824656,Tunai
+TRX-20260646,2026-08-05,2026-08,Jawa Timur,Bahan Makanan & Kuliner,3,192333,576999,Kartu Kredit
+TRX-20260084,2026-08-05,2026-08,Jawa Barat,Fashion & Busana,4,544231,2176924,Tunai
+TRX-20260272,2026-08-05,2026-08,Jawa Tengah,Fashion & Busana,1,472571,472571,QRIS / E-Wallet
+TRX-20260501,2026-08-05,2026-08,Jawa Tengah,Elektronik & Gadget,4,5452403,21809612,Transfer Bank
+TRX-20261068,2026-08-06,2026-08,Jawa Tengah,Fashion & Busana,8,601340,4810720,QRIS / E-Wallet
+TRX-20260150,2026-08-06,2026-08,Jawa Barat,Fashion & Busana,4,346033,1384132,Transfer Bank
+TRX-20260434,2026-08-06,2026-08,Jawa Timur,Fashion & Busana,1,289446,289446,Kartu Kredit
+TRX-20260816,2026-08-06,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,2,32426,64852,Kartu Kredit
+TRX-20260986,2026-08-07,2026-08,Jawa Timur,Peralatan Rumah Tangga,1,718868,718868,QRIS / E-Wallet
+TRX-20260924,2026-08-07,2026-08,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,3,161421,484263,QRIS / E-Wallet
+TRX-20260887,2026-08-07,2026-08,DKI Jakarta,Elektronik & Gadget,2,1875443,3750886,Kartu Kredit
+TRX-20260581,2026-08-07,2026-08,Jawa Barat,Elektronik & Gadget,2,4325207,8650414,Kartu Kredit
+TRX-20260401,2026-08-08,2026-08,DKI Jakarta,Peralatan Rumah Tangga,2,344576,689152,Tunai
+TRX-20261078,2026-08-08,2026-08,Jawa Tengah,Fashion & Busana,2,100033,200066,QRIS / E-Wallet
+TRX-20260804,2026-08-08,2026-08,Jawa Timur,Fashion & Busana,2,310529,621058,Tunai
+TRX-20261186,2026-08-08,2026-08,DKI Jakarta,Peralatan Rumah Tangga,1,763308,763308,Transfer Bank
+TRX-20260848,2026-08-08,2026-08,Jawa Barat,Elektronik & Gadget,1,7094105,7094105,Kartu Kredit
+TRX-20260345,2026-08-08,2026-08,Jawa Timur,Bahan Makanan & Kuliner,1,76684,76684,Tunai
+TRX-20260724,2026-08-08,2026-08,Bali & Nusa Tenggara,Fashion & Busana,1,143344,143344,QRIS / E-Wallet
+TRX-20261012,2026-08-09,2026-08,Jawa Timur,Bahan Makanan & Kuliner,2,46827,93654,Tunai
+TRX-20260546,2026-08-09,2026-08,Jawa Barat,Elektronik & Gadget,1,7567392,7567392,Tunai
+TRX-20260286,2026-08-09,2026-08,DKI Jakarta,Peralatan Rumah Tangga,4,1246732,4986928,Tunai
+TRX-20260765,2026-08-09,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,2,62719,125438,Tunai
+TRX-20260662,2026-08-10,2026-08,Jawa Timur,Bahan Makanan & Kuliner,3,188440,565320,Tunai
+TRX-20260352,2026-08-10,2026-08,Jawa Timur,Elektronik & Gadget,2,8446907,16893814,QRIS / E-Wallet
+TRX-20260821,2026-08-10,2026-08,Jawa Barat,Elektronik & Gadget,2,4837872,9675744,Transfer Bank
+TRX-20260064,2026-08-10,2026-08,Jawa Tengah,Fashion & Busana,1,352511,352511,Transfer Bank
+TRX-20260128,2026-08-11,2026-08,Jawa Timur,Elektronik & Gadget,2,1627697,3255394,Tunai
+TRX-20260065,2026-08-11,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,1,148843,148843,Kartu Kredit
+TRX-20260874,2026-08-11,2026-08,Jawa Tengah,Fashion & Busana,4,296280,1185120,Transfer Bank
+TRX-20260048,2026-08-11,2026-08,Jawa Timur,Fashion & Busana,1,359183,359183,Kartu Kredit
+TRX-20260098,2026-08-12,2026-08,Bali & Nusa Tenggara,Elektronik & Gadget,3,4135243,12405729,Kartu Kredit
+TRX-20260516,2026-08-12,2026-08,DKI Jakarta,Peralatan Rumah Tangga,1,279875,279875,QRIS / E-Wallet
+TRX-20260830,2026-08-12,2026-08,DKI Jakarta,Fashion & Busana,2,626239,1252478,Kartu Kredit
+TRX-20260225,2026-08-12,2026-08,Jawa Timur,Elektronik & Gadget,2,6827195,13654390,Tunai
+TRX-20260748,2026-08-13,2026-08,Jawa Barat,Elektronik & Gadget,2,5724701,11449402,Kartu Kredit
+TRX-20260260,2026-08-13,2026-08,DKI Jakarta,Fashion & Busana,3,348184,1044552,Tunai
+TRX-20260174,2026-08-14,2026-08,Jawa Timur,Peralatan Rumah Tangga,3,579105,1737315,Kartu Kredit
+TRX-20260520,2026-08-14,2026-08,Jawa Barat,Peralatan Rumah Tangga,4,1064480,4257920,Kartu Kredit
+TRX-20260862,2026-08-14,2026-08,Jawa Tengah,Fashion & Busana,2,153757,307514,Kartu Kredit
+TRX-20260679,2026-08-14,2026-08,Jawa Barat,Fashion & Busana,1,489080,489080,QRIS / E-Wallet
+TRX-20260230,2026-08-14,2026-08,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,455836,455836,QRIS / E-Wallet
+TRX-20260752,2026-08-14,2026-08,DKI Jakarta,Elektronik & Gadget,2,6132030,12264060,Kartu Kredit
+TRX-20260186,2026-08-15,2026-08,Jawa Timur,Fashion & Busana,2,237499,474998,QRIS / E-Wallet
+TRX-20260090,2026-08-15,2026-08,Jawa Tengah,Fashion & Busana,1,646025,646025,QRIS / E-Wallet
+TRX-20260505,2026-08-15,2026-08,Jawa Barat,Fashion & Busana,1,343600,343600,Tunai
+TRX-20260258,2026-08-16,2026-08,Jawa Timur,Bahan Makanan & Kuliner,1,30731,30731,Transfer Bank
+TRX-20260904,2026-08-16,2026-08,Jawa Timur,Bahan Makanan & Kuliner,1,163645,163645,Transfer Bank
+TRX-20260287,2026-08-16,2026-08,Jawa Tengah,Elektronik & Gadget,1,5186366,5186366,Tunai
+TRX-20260824,2026-08-17,2026-08,Jawa Timur,Peralatan Rumah Tangga,4,133956,535824,Transfer Bank
+TRX-20260684,2026-08-17,2026-08,Jawa Barat,Fashion & Busana,4,595363,2381452,QRIS / E-Wallet
+TRX-20260014,2026-08-19,2026-08,Jawa Tengah,Bahan Makanan & Kuliner,2,179084,358168,Tunai
+TRX-20260313,2026-08-19,2026-08,Jawa Timur,Peralatan Rumah Tangga,2,812874,1625748,QRIS / E-Wallet
+TRX-20261008,2026-08-19,2026-08,Jawa Timur,Fashion & Busana,1,643290,643290,Transfer Bank
+TRX-20260019,2026-08-19,2026-08,Jawa Barat,Fashion & Busana,2,403250,806500,Kartu Kredit
+TRX-20260339,2026-08-20,2026-08,Jawa Barat,Fashion & Busana,1,560092,560092,Kartu Kredit
+TRX-20261016,2026-08-21,2026-08,Jawa Barat,Peralatan Rumah Tangga,2,193105,386210,QRIS / E-Wallet
+TRX-20260586,2026-08-21,2026-08,Jawa Barat,Bahan Makanan & Kuliner,2,162792,325584,Kartu Kredit
+TRX-20260123,2026-08-21,2026-08,Jawa Barat,Fashion & Busana,1,352793,352793,Kartu Kredit
+TRX-20260245,2026-08-21,2026-08,Jawa Barat,Peralatan Rumah Tangga,2,216313,432626,QRIS / E-Wallet
+TRX-20260460,2026-08-22,2026-08,Jawa Barat,Elektronik & Gadget,1,2195115,2195115,Transfer Bank
+TRX-20260487,2026-08-22,2026-08,DKI Jakarta,Fashion & Busana,2,128427,256854,Transfer Bank
+TRX-20261185,2026-08-22,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,4,103492,413968,QRIS / E-Wallet
+TRX-20261107,2026-08-22,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,1,217755,217755,Transfer Bank
+TRX-20260530,2026-08-23,2026-08,Jawa Tengah,Elektronik & Gadget,1,2660248,2660248,QRIS / E-Wallet
+TRX-20260615,2026-08-23,2026-08,Jawa Tengah,Elektronik & Gadget,1,2084880,2084880,Kartu Kredit
+TRX-20260003,2026-08-24,2026-08,DKI Jakarta,Elektronik & Gadget,2,3629695,7259390,Kartu Kredit
+TRX-20260202,2026-08-24,2026-08,Bali & Nusa Tenggara,Elektronik & Gadget,2,4858469,9716938,Transfer Bank
+TRX-20260124,2026-08-24,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,2,168680,337360,QRIS / E-Wallet
+TRX-20260722,2026-08-25,2026-08,Jawa Barat,Elektronik & Gadget,1,2029627,2029627,QRIS / E-Wallet
+TRX-20260750,2026-08-25,2026-08,Jawa Barat,Fashion & Busana,1,320714,320714,Kartu Kredit
+TRX-20260181,2026-08-25,2026-08,Jawa Tengah,Fashion & Busana,1,498684,498684,Kartu Kredit
+TRX-20261164,2026-08-25,2026-08,Jawa Timur,Peralatan Rumah Tangga,2,1339712,2679424,Transfer Bank
+TRX-20261180,2026-08-25,2026-08,DKI Jakarta,Fashion & Busana,1,402300,402300,Kartu Kredit
+TRX-20260399,2026-08-26,2026-08,Jawa Barat,Fashion & Busana,1,448111,448111,Transfer Bank
+TRX-20260252,2026-08-26,2026-08,DKI Jakarta,Fashion & Busana,1,432894,432894,Tunai
+TRX-20260811,2026-08-26,2026-08,Jawa Barat,Elektronik & Gadget,1,4995120,4995120,QRIS / E-Wallet
+TRX-20260120,2026-08-27,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,2,199565,399130,Transfer Bank
+TRX-20260168,2026-08-27,2026-08,Jawa Barat,Bahan Makanan & Kuliner,1,28843,28843,Kartu Kredit
+TRX-20261000,2026-08-27,2026-08,Jawa Barat,Fashion & Busana,1,612697,612697,Tunai
+TRX-20260116,2026-08-27,2026-08,Jawa Barat,Elektronik & Gadget,2,7095872,14191744,Kartu Kredit
+TRX-20260641,2026-08-27,2026-08,Jawa Tengah,Bahan Makanan & Kuliner,2,78029,156058,Kartu Kredit
+TRX-20260737,2026-08-27,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,1,153341,153341,Tunai
+TRX-20260666,2026-08-27,2026-08,Jawa Tengah,Bahan Makanan & Kuliner,2,141371,282742,Kartu Kredit
+TRX-20260435,2026-08-29,2026-08,Jawa Tengah,Fashion & Busana,1,633915,633915,Transfer Bank
+TRX-20260559,2026-08-29,2026-08,Jawa Barat,Elektronik & Gadget,2,6837380,13674760,Kartu Kredit
+TRX-20260526,2026-08-30,2026-08,Jawa Tengah,Fashion & Busana,2,587929,1175858,Transfer Bank
+TRX-20260965,2026-08-30,2026-08,DKI Jakarta,Fashion & Busana,3,371277,1113831,QRIS / E-Wallet
+TRX-20260299,2026-08-30,2026-08,DKI Jakarta,Peralatan Rumah Tangga,1,1139652,1139652,QRIS / E-Wallet
+TRX-20260097,2026-08-30,2026-08,Jawa Barat,Bahan Makanan & Kuliner,4,106557,426228,QRIS / E-Wallet
+TRX-20261098,2026-08-31,2026-08,DKI Jakarta,Bahan Makanan & Kuliner,3,72504,217512,Kartu Kredit
+TRX-20260208,2026-08-31,2026-08,Jawa Barat,Elektronik & Gadget,2,8099122,16198244,Transfer Bank
+TRX-20260020,2026-08-31,2026-08,DKI Jakarta,Elektronik & Gadget,2,8099974,16199948,Transfer Bank
+TRX-20260363,2026-08-31,2026-08,Jawa Timur,Peralatan Rumah Tangga,1,609361,609361,Transfer Bank
+TRX-20260148,2026-08-31,2026-08,Jawa Barat,Bahan Makanan & Kuliner,2,165407,330814,Transfer Bank
+TRX-20260706,2026-09-01,2026-09,Jawa Tengah,Fashion & Busana,4,564181,2256724,Transfer Bank
+TRX-20260970,2026-09-01,2026-09,Jawa Timur,Fashion & Busana,3,527395,1582185,Tunai
+TRX-20260594,2026-09-02,2026-09,Jawa Timur,Elektronik & Gadget,1,6498369,6498369,Tunai
+TRX-20261004,2026-09-03,2026-09,Jawa Barat,Bahan Makanan & Kuliner,1,195432,195432,Kartu Kredit
+TRX-20260177,2026-09-03,2026-09,Jawa Tengah,Fashion & Busana,1,442915,442915,Transfer Bank
+TRX-20261110,2026-09-03,2026-09,DKI Jakarta,Peralatan Rumah Tangga,1,1211729,1211729,Tunai
+TRX-20260825,2026-09-04,2026-09,DKI Jakarta,Elektronik & Gadget,1,8377648,8377648,Kartu Kredit
+TRX-20260167,2026-09-04,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,1,153490,153490,Kartu Kredit
+TRX-20260914,2026-09-04,2026-09,Bali & Nusa Tenggara,Fashion & Busana,1,559598,559598,Transfer Bank
+TRX-20260535,2026-09-04,2026-09,Jawa Barat,Bahan Makanan & Kuliner,5,102065,510325,Transfer Bank
+TRX-20261125,2026-09-04,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,1,121011,121011,Transfer Bank
+TRX-20260384,2026-09-05,2026-09,Jawa Barat,Fashion & Busana,1,593405,593405,Tunai
+TRX-20261140,2026-09-05,2026-09,Jawa Barat,Fashion & Busana,3,206819,620457,Kartu Kredit
+TRX-20260588,2026-09-05,2026-09,Jawa Barat,Peralatan Rumah Tangga,4,1099591,4398364,Transfer Bank
+TRX-20260315,2026-09-06,2026-09,Jawa Barat,Fashion & Busana,1,288477,288477,Kartu Kredit
+TRX-20260473,2026-09-07,2026-09,Jawa Barat,Fashion & Busana,2,572904,1145808,Kartu Kredit
+TRX-20260907,2026-09-07,2026-09,Jawa Barat,Peralatan Rumah Tangga,1,1271827,1271827,Tunai
+TRX-20261191,2026-09-07,2026-09,Jawa Timur,Peralatan Rumah Tangga,1,856952,856952,Tunai
+TRX-20260977,2026-09-08,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,1,81558,81558,QRIS / E-Wallet
+TRX-20261021,2026-09-08,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,1,219107,219107,Kartu Kredit
+TRX-20260105,2026-09-08,2026-09,Jawa Barat,Peralatan Rumah Tangga,1,1407405,1407405,Tunai
+TRX-20260010,2026-09-09,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,2,88675,177350,Tunai
+TRX-20260336,2026-09-09,2026-09,Jawa Tengah,Fashion & Busana,1,169777,169777,Kartu Kredit
+TRX-20260708,2026-09-09,2026-09,DKI Jakarta,Fashion & Busana,3,331139,993417,Tunai
+TRX-20260890,2026-09-10,2026-09,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,654957,654957,Kartu Kredit
+TRX-20260047,2026-09-10,2026-09,Jawa Barat,Bahan Makanan & Kuliner,1,216164,216164,Kartu Kredit
+TRX-20260817,2026-09-10,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,2,195023,390046,Tunai
+TRX-20260325,2026-09-11,2026-09,Jawa Tengah,Elektronik & Gadget,1,5985784,5985784,Kartu Kredit
+TRX-20260560,2026-09-12,2026-09,Jawa Barat,Fashion & Busana,1,485766,485766,QRIS / E-Wallet
+TRX-20260017,2026-09-12,2026-09,DKI Jakarta,Peralatan Rumah Tangga,2,1249055,2498110,Kartu Kredit
+TRX-20260538,2026-09-12,2026-09,Jawa Tengah,Elektronik & Gadget,4,3999205,15996820,Tunai
+TRX-20261166,2026-09-13,2026-09,DKI Jakarta,Fashion & Busana,2,236152,472304,Tunai
+TRX-20260161,2026-09-14,2026-09,DKI Jakarta,Elektronik & Gadget,2,8478119,16956238,Transfer Bank
+TRX-20260117,2026-09-14,2026-09,DKI Jakarta,Peralatan Rumah Tangga,1,201233,201233,Kartu Kredit
+TRX-20260960,2026-09-14,2026-09,Jawa Barat,Elektronik & Gadget,3,7043239,21129717,Tunai
+TRX-20260355,2026-09-15,2026-09,DKI Jakarta,Peralatan Rumah Tangga,1,1366726,1366726,Kartu Kredit
+TRX-20261198,2026-09-15,2026-09,Bali & Nusa Tenggara,Fashion & Busana,4,593224,2372896,Transfer Bank
+TRX-20260104,2026-09-16,2026-09,Jawa Barat,Elektronik & Gadget,1,4987156,4987156,Tunai
+TRX-20260979,2026-09-16,2026-09,Jawa Timur,Elektronik & Gadget,1,1947158,1947158,Kartu Kredit
+TRX-20260209,2026-09-16,2026-09,Jawa Timur,Elektronik & Gadget,1,4188634,4188634,QRIS / E-Wallet
+TRX-20260869,2026-09-17,2026-09,Bali & Nusa Tenggara,Peralatan Rumah Tangga,3,1298265,3894795,Transfer Bank
+TRX-20260359,2026-09-18,2026-09,Jawa Timur,Fashion & Busana,1,90272,90272,Tunai
+TRX-20261069,2026-09-18,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,1,84851,84851,Kartu Kredit
+TRX-20261146,2026-09-18,2026-09,Jawa Timur,Fashion & Busana,2,547867,1095734,Tunai
+TRX-20260147,2026-09-18,2026-09,Jawa Barat,Elektronik & Gadget,3,4281011,12843033,Tunai
+TRX-20260344,2026-09-18,2026-09,Jawa Barat,Bahan Makanan & Kuliner,1,61113,61113,Transfer Bank
+TRX-20260729,2026-09-19,2026-09,Jawa Barat,Elektronik & Gadget,1,7342136,7342136,Transfer Bank
+TRX-20260962,2026-09-19,2026-09,DKI Jakarta,Elektronik & Gadget,2,2349904,4699808,Kartu Kredit
+TRX-20260755,2026-09-19,2026-09,Jawa Timur,Fashion & Busana,2,101188,202376,Kartu Kredit
+TRX-20261182,2026-09-19,2026-09,DKI Jakarta,Peralatan Rumah Tangga,1,1168086,1168086,Tunai
+TRX-20260805,2026-09-20,2026-09,Jawa Tengah,Fashion & Busana,4,161663,646652,QRIS / E-Wallet
+TRX-20260171,2026-09-20,2026-09,Jawa Tengah,Fashion & Busana,1,591429,591429,QRIS / E-Wallet
+TRX-20260266,2026-09-21,2026-09,Jawa Tengah,Bahan Makanan & Kuliner,1,53422,53422,QRIS / E-Wallet
+TRX-20261072,2026-09-21,2026-09,Jawa Barat,Bahan Makanan & Kuliner,4,51759,207036,Kartu Kredit
+TRX-20260497,2026-09-21,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,2,199666,399332,QRIS / E-Wallet
+TRX-20260007,2026-09-21,2026-09,DKI Jakarta,Fashion & Busana,2,140184,280368,Transfer Bank
+TRX-20260494,2026-09-21,2026-09,DKI Jakarta,Bahan Makanan & Kuliner,4,48390,193560,Kartu Kredit
+TRX-20260693,2026-09-21,2026-09,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,173278,173278,Kartu Kredit
+TRX-20260055,2026-09-21,2026-09,Jawa Tengah,Peralatan Rumah Tangga,1,599053,599053,Tunai
+TRX-20260481,2026-09-21,2026-09,Bali & Nusa Tenggara,Fashion & Busana,8,533267,4266136,Tunai
+TRX-20261066,2026-09-22,2026-09,Jawa Barat,Elektronik & Gadget,3,5648872,16946616,Tunai
+TRX-20260285,2026-09-22,2026-09,Jawa Barat,Bahan Makanan & Kuliner,2,57846,115692,Transfer Bank
+TRX-20260484,2026-09-22,2026-09,Jawa Tengah,Peralatan Rumah Tangga,1,936093,936093,Transfer Bank
+TRX-20260320,2026-09-23,2026-09,Jawa Timur,Elektronik & Gadget,2,8201260,16402520,QRIS / E-Wallet
+TRX-20260326,2026-09-23,2026-09,DKI Jakarta,Elektronik & Gadget,3,1929447,5788341,Transfer Bank
+TRX-20260747,2026-09-24,2026-09,Jawa Barat,Peralatan Rumah Tangga,3,652282,1956846,Transfer Bank
+TRX-20260426,2026-09-25,2026-09,Jawa Barat,Fashion & Busana,1,558555,558555,Tunai
+TRX-20261047,2026-09-25,2026-09,Jawa Barat,Peralatan Rumah Tangga,2,419464,838928,Transfer Bank
+TRX-20260449,2026-09-25,2026-09,DKI Jakarta,Peralatan Rumah Tangga,3,1438380,4315140,QRIS / E-Wallet
+TRX-20260669,2026-09-25,2026-09,Jawa Timur,Elektronik & Gadget,1,3932549,3932549,Tunai
+TRX-20260200,2026-09-26,2026-09,Jawa Barat,Fashion & Busana,1,644542,644542,Tunai
+TRX-20260807,2026-09-26,2026-09,Jawa Tengah,Fashion & Busana,4,498799,1995196,Transfer Bank
+TRX-20260404,2026-09-26,2026-09,DKI Jakarta,Fashion & Busana,2,641022,1282044,Tunai
+TRX-20260650,2026-09-26,2026-09,DKI Jakarta,Fashion & Busana,1,407706,407706,Tunai
+TRX-20260348,2026-09-26,2026-09,Jawa Barat,Bahan Makanan & Kuliner,5,82100,410500,Kartu Kredit
+TRX-20260138,2026-09-27,2026-09,Jawa Timur,Peralatan Rumah Tangga,3,305897,917691,Kartu Kredit
+TRX-20261099,2026-09-27,2026-09,Jawa Barat,Peralatan Rumah Tangga,2,629168,1258336,Kartu Kredit
+TRX-20260626,2026-09-28,2026-09,Jawa Barat,Fashion & Busana,1,548638,548638,QRIS / E-Wallet
+TRX-20260567,2026-09-28,2026-09,Jawa Barat,Peralatan Rumah Tangga,1,780024,780024,Tunai
+TRX-20260832,2026-09-28,2026-09,Jawa Tengah,Fashion & Busana,2,213126,426252,Kartu Kredit
+TRX-20260739,2026-09-28,2026-09,Jawa Tengah,Bahan Makanan & Kuliner,1,43667,43667,QRIS / E-Wallet
+TRX-20260004,2026-09-28,2026-09,Jawa Barat,Bahan Makanan & Kuliner,1,52201,52201,Kartu Kredit
+TRX-20261025,2026-09-28,2026-09,DKI Jakarta,Fashion & Busana,1,281031,281031,Tunai
+TRX-20260592,2026-09-28,2026-09,Jawa Timur,Fashion & Busana,1,587882,587882,Kartu Kredit
+TRX-20260705,2026-09-30,2026-09,Jawa Tengah,Bahan Makanan & Kuliner,1,206974,206974,Tunai
+TRX-20260728,2026-09-30,2026-09,DKI Jakarta,Peralatan Rumah Tangga,1,1175926,1175926,Transfer Bank
+TRX-20260692,2026-09-30,2026-09,DKI Jakarta,Elektronik & Gadget,1,4135712,4135712,Tunai
+TRX-20260593,2026-09-30,2026-09,Jawa Barat,Bahan Makanan & Kuliner,2,26765,53530,QRIS / E-Wallet
+TRX-20260462,2026-10-01,2026-10,Jawa Timur,Fashion & Busana,1,352813,352813,QRIS / E-Wallet
+TRX-20260937,2026-10-01,2026-10,Jawa Tengah,Fashion & Busana,2,584730,1169460,Tunai
+TRX-20261054,2026-10-01,2026-10,Jawa Tengah,Bahan Makanan & Kuliner,2,114380,228760,QRIS / E-Wallet
+TRX-20260420,2026-10-02,2026-10,Jawa Timur,Fashion & Busana,1,569963,569963,Tunai
+TRX-20260951,2026-10-03,2026-10,Jawa Tengah,Fashion & Busana,2,163178,326356,Kartu Kredit
+TRX-20260798,2026-10-03,2026-10,Jawa Tengah,Bahan Makanan & Kuliner,2,48314,96628,Tunai
+TRX-20260043,2026-10-04,2026-10,Jawa Barat,Fashion & Busana,1,596945,596945,Tunai
+TRX-20260718,2026-10-04,2026-10,Jawa Barat,Fashion & Busana,1,421786,421786,Transfer Bank
+TRX-20260608,2026-10-04,2026-10,Jawa Tengah,Elektronik & Gadget,2,5105039,10210078,Transfer Bank
+TRX-20260439,2026-10-04,2026-10,DKI Jakarta,Peralatan Rumah Tangga,3,498467,1495401,Kartu Kredit
+TRX-20260451,2026-10-04,2026-10,Jawa Tengah,Fashion & Busana,1,546448,546448,Transfer Bank
+TRX-20260528,2026-10-04,2026-10,Bali & Nusa Tenggara,Fashion & Busana,2,221669,443338,Transfer Bank
+TRX-20260409,2026-10-04,2026-10,DKI Jakarta,Peralatan Rumah Tangga,1,565826,565826,Transfer Bank
+TRX-20260072,2026-10-04,2026-10,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,2,196107,392214,Tunai
+TRX-20260915,2026-10-05,2026-10,Jawa Tengah,Fashion & Busana,3,177822,533466,Kartu Kredit
+TRX-20260839,2026-10-06,2026-10,Bali & Nusa Tenggara,Elektronik & Gadget,1,5129931,5129931,Kartu Kredit
+TRX-20261155,2026-10-06,2026-10,Jawa Barat,Bahan Makanan & Kuliner,1,40391,40391,QRIS / E-Wallet
+TRX-20260809,2026-10-06,2026-10,DKI Jakarta,Fashion & Busana,1,613122,613122,Kartu Kredit
+TRX-20260843,2026-10-07,2026-10,DKI Jakarta,Elektronik & Gadget,2,8274619,16549238,Transfer Bank
+TRX-20260378,2026-10-07,2026-10,Jawa Tengah,Elektronik & Gadget,4,7827393,31309572,Transfer Bank
+TRX-20260011,2026-10-07,2026-10,Jawa Barat,Peralatan Rumah Tangga,2,1113935,2227870,Tunai
+TRX-20260303,2026-10-07,2026-10,DKI Jakarta,Fashion & Busana,2,490442,980884,Kartu Kredit
+TRX-20260235,2026-10-07,2026-10,Jawa Barat,Bahan Makanan & Kuliner,3,64070,192210,Kartu Kredit
+TRX-20261188,2026-10-09,2026-10,DKI Jakarta,Fashion & Busana,2,378909,757818,Transfer Bank
+TRX-20260981,2026-10-09,2026-10,Jawa Timur,Peralatan Rumah Tangga,1,1044241,1044241,Tunai
+TRX-20260547,2026-10-09,2026-10,Jawa Timur,Fashion & Busana,2,412750,825500,QRIS / E-Wallet
+TRX-20261136,2026-10-09,2026-10,Bali & Nusa Tenggara,Elektronik & Gadget,3,6261754,18785262,Transfer Bank
+TRX-20260712,2026-10-09,2026-10,Jawa Tengah,Elektronik & Gadget,2,4796721,9593442,Tunai
+TRX-20260570,2026-10-10,2026-10,Jawa Barat,Peralatan Rumah Tangga,2,188719,377438,Tunai
+TRX-20261079,2026-10-10,2026-10,Jawa Tengah,Bahan Makanan & Kuliner,1,65146,65146,Transfer Bank
+TRX-20260730,2026-10-10,2026-10,Jawa Timur,Fashion & Busana,3,541749,1625247,Kartu Kredit
+TRX-20260713,2026-10-10,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,3,201350,604050,Kartu Kredit
+TRX-20261138,2026-10-10,2026-10,Bali & Nusa Tenggara,Fashion & Busana,3,519898,1559694,Transfer Bank
+TRX-20261162,2026-10-10,2026-10,Jawa Tengah,Fashion & Busana,1,189205,189205,Transfer Bank
+TRX-20260405,2026-10-10,2026-10,Jawa Tengah,Peralatan Rumah Tangga,1,688561,688561,Kartu Kredit
+TRX-20260779,2026-10-10,2026-10,Jawa Tengah,Elektronik & Gadget,3,5741978,17225934,Transfer Bank
+TRX-20260099,2026-10-10,2026-10,Jawa Barat,Bahan Makanan & Kuliner,5,99273,496365,QRIS / E-Wallet
+TRX-20260883,2026-10-11,2026-10,Jawa Timur,Bahan Makanan & Kuliner,1,70099,70099,Transfer Bank
+TRX-20260469,2026-10-11,2026-10,Jawa Timur,Bahan Makanan & Kuliner,1,64255,64255,QRIS / E-Wallet
+TRX-20260021,2026-10-11,2026-10,Jawa Timur,Bahan Makanan & Kuliner,1,82648,82648,Tunai
+TRX-20260777,2026-10-11,2026-10,Jawa Tengah,Elektronik & Gadget,1,1509423,1509423,QRIS / E-Wallet
+TRX-20260216,2026-10-11,2026-10,DKI Jakarta,Fashion & Busana,1,130791,130791,QRIS / E-Wallet
+TRX-20260077,2026-10-11,2026-10,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,1246700,1246700,Tunai
+TRX-20260446,2026-10-12,2026-10,Jawa Tengah,Elektronik & Gadget,4,3983399,15933596,Transfer Bank
+TRX-20260909,2026-10-12,2026-10,Jawa Tengah,Fashion & Busana,3,645556,1936668,Transfer Bank
+TRX-20260228,2026-10-12,2026-10,Jawa Barat,Elektronik & Gadget,5,7600757,38003785,Kartu Kredit
+TRX-20260231,2026-10-12,2026-10,Jawa Tengah,Elektronik & Gadget,2,7479468,14958936,Tunai
+TRX-20260534,2026-10-12,2026-10,Jawa Timur,Bahan Makanan & Kuliner,1,216329,216329,Transfer Bank
+TRX-20260075,2026-10-13,2026-10,Jawa Timur,Fashion & Busana,3,509242,1527726,Transfer Bank
+TRX-20260690,2026-10-14,2026-10,DKI Jakarta,Fashion & Busana,1,643514,643514,Transfer Bank
+TRX-20261167,2026-10-15,2026-10,DKI Jakarta,Peralatan Rumah Tangga,1,1418731,1418731,Transfer Bank
+TRX-20260522,2026-10-15,2026-10,DKI Jakarta,Fashion & Busana,2,452790,905580,QRIS / E-Wallet
+TRX-20260792,2026-10-15,2026-10,Jawa Timur,Fashion & Busana,1,228781,228781,Kartu Kredit
+TRX-20260789,2026-10-15,2026-10,Jawa Timur,Bahan Makanan & Kuliner,1,133532,133532,QRIS / E-Wallet
+TRX-20260736,2026-10-15,2026-10,Jawa Tengah,Fashion & Busana,1,229265,229265,Transfer Bank
+TRX-20260218,2026-10-16,2026-10,Jawa Timur,Bahan Makanan & Kuliner,3,131036,393108,Kartu Kredit
+TRX-20260040,2026-10-16,2026-10,Jawa Barat,Bahan Makanan & Kuliner,2,68732,137464,Tunai
+TRX-20260388,2026-10-16,2026-10,Jawa Barat,Fashion & Busana,2,135194,270388,QRIS / E-Wallet
+TRX-20260242,2026-10-16,2026-10,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,2,81874,163748,QRIS / E-Wallet
+TRX-20260156,2026-10-18,2026-10,Jawa Barat,Fashion & Busana,1,538612,538612,QRIS / E-Wallet
+TRX-20260284,2026-10-18,2026-10,DKI Jakarta,Fashion & Busana,1,338511,338511,Transfer Bank
+TRX-20261064,2026-10-18,2026-10,Jawa Tengah,Bahan Makanan & Kuliner,2,196468,392936,Kartu Kredit
+TRX-20260628,2026-10-19,2026-10,Jawa Timur,Peralatan Rumah Tangga,2,637908,1275816,Tunai
+TRX-20260892,2026-10-19,2026-10,DKI Jakarta,Elektronik & Gadget,2,8229916,16459832,Kartu Kredit
+TRX-20260508,2026-10-19,2026-10,Jawa Tengah,Elektronik & Gadget,4,4263140,17052560,Tunai
+TRX-20260289,2026-10-19,2026-10,Bali & Nusa Tenggara,Peralatan Rumah Tangga,5,214802,1074010,Kartu Kredit
+TRX-20261075,2026-10-19,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,2,171858,343716,Transfer Bank
+TRX-20260663,2026-10-20,2026-10,Jawa Timur,Fashion & Busana,1,312066,312066,Transfer Bank
+TRX-20260761,2026-10-20,2026-10,Jawa Tengah,Fashion & Busana,4,459479,1837916,Kartu Kredit
+TRX-20261082,2026-10-20,2026-10,Jawa Barat,Bahan Makanan & Kuliner,1,187719,187719,Tunai
+TRX-20260717,2026-10-21,2026-10,Jawa Tengah,Peralatan Rumah Tangga,1,350546,350546,Transfer Bank
+TRX-20260925,2026-10-21,2026-10,Jawa Barat,Fashion & Busana,2,553470,1106940,Transfer Bank
+TRX-20260273,2026-10-21,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,2,74573,149146,Tunai
+TRX-20260968,2026-10-21,2026-10,Jawa Barat,Elektronik & Gadget,2,1847630,3695260,Transfer Bank
+TRX-20260002,2026-10-21,2026-10,DKI Jakarta,Elektronik & Gadget,3,8289368,24868104,Tunai
+TRX-20260850,2026-10-21,2026-10,Jawa Barat,Peralatan Rumah Tangga,1,987525,987525,Kartu Kredit
+TRX-20260583,2026-10-22,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,2,213864,427728,Kartu Kredit
+TRX-20260610,2026-10-22,2026-10,DKI Jakarta,Fashion & Busana,2,285250,570500,QRIS / E-Wallet
+TRX-20260906,2026-10-22,2026-10,Jawa Timur,Peralatan Rumah Tangga,1,573855,573855,QRIS / E-Wallet
+TRX-20260026,2026-10-22,2026-10,Jawa Barat,Fashion & Busana,5,634056,3170280,QRIS / E-Wallet
+TRX-20260683,2026-10-22,2026-10,Jawa Barat,Bahan Makanan & Kuliner,3,47817,143451,QRIS / E-Wallet
+TRX-20260908,2026-10-23,2026-10,DKI Jakarta,Peralatan Rumah Tangga,8,762698,6101584,Transfer Bank
+TRX-20260775,2026-10-23,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,1,124769,124769,Kartu Kredit
+TRX-20260137,2026-10-23,2026-10,Jawa Tengah,Peralatan Rumah Tangga,1,361039,361039,Tunai
+TRX-20260672,2026-10-23,2026-10,DKI Jakarta,Fashion & Busana,8,384382,3075056,Tunai
+TRX-20260153,2026-10-23,2026-10,Jawa Timur,Fashion & Busana,1,123940,123940,Kartu Kredit
+TRX-20260398,2026-10-24,2026-10,Jawa Barat,Peralatan Rumah Tangga,2,391009,782018,QRIS / E-Wallet
+TRX-20261088,2026-10-24,2026-10,Jawa Barat,Elektronik & Gadget,8,1516263,12130104,Kartu Kredit
+TRX-20260871,2026-10-25,2026-10,Jawa Timur,Elektronik & Gadget,4,1506505,6026020,Tunai
+TRX-20260034,2026-10-25,2026-10,DKI Jakarta,Fashion & Busana,4,149112,596448,Tunai
+TRX-20260050,2026-10-26,2026-10,Jawa Tengah,Fashion & Busana,2,580715,1161430,Kartu Kredit
+TRX-20260664,2026-10-26,2026-10,DKI Jakarta,Peralatan Rumah Tangga,2,895643,1791286,Tunai
+TRX-20260745,2026-10-26,2026-10,Bali & Nusa Tenggara,Peralatan Rumah Tangga,3,864009,2592027,Tunai
+TRX-20260307,2026-10-27,2026-10,DKI Jakarta,Fashion & Busana,2,582244,1164488,Kartu Kredit
+TRX-20260253,2026-10-27,2026-10,Jawa Barat,Peralatan Rumah Tangga,1,696761,696761,Transfer Bank
+TRX-20260382,2026-10-28,2026-10,Jawa Timur,Fashion & Busana,1,523841,523841,Kartu Kredit
+TRX-20260442,2026-10-28,2026-10,Jawa Tengah,Bahan Makanan & Kuliner,1,143541,143541,Tunai
+TRX-20260589,2026-10-28,2026-10,Jawa Barat,Fashion & Busana,2,113526,227052,QRIS / E-Wallet
+TRX-20260012,2026-10-28,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,1,78819,78819,Kartu Kredit
+TRX-20260403,2026-10-29,2026-10,DKI Jakarta,Peralatan Rumah Tangga,1,1259642,1259642,QRIS / E-Wallet
+TRX-20260719,2026-10-30,2026-10,DKI Jakarta,Fashion & Busana,1,594863,594863,Kartu Kredit
+TRX-20260955,2026-10-31,2026-10,Jawa Barat,Fashion & Busana,1,576352,576352,QRIS / E-Wallet
+TRX-20260651,2026-10-31,2026-10,DKI Jakarta,Peralatan Rumah Tangga,1,1249408,1249408,Transfer Bank
+TRX-20260219,2026-10-31,2026-10,Jawa Tengah,Peralatan Rumah Tangga,1,446229,446229,Kartu Kredit
+TRX-20260044,2026-10-31,2026-10,DKI Jakarta,Bahan Makanan & Kuliner,1,193512,193512,Kartu Kredit
+TRX-20260709,2026-10-31,2026-10,Jawa Timur,Fashion & Busana,1,564986,564986,Kartu Kredit
+TRX-20260427,2026-10-31,2026-10,Jawa Timur,Bahan Makanan & Kuliner,2,136803,273606,Kartu Kredit
+TRX-20260504,2026-10-31,2026-10,Jawa Barat,Bahan Makanan & Kuliner,1,219895,219895,Tunai
+TRX-20260879,2026-11-01,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,150105,150105,Kartu Kredit
+TRX-20260704,2026-11-01,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,70712,70712,Transfer Bank
+TRX-20260247,2026-11-01,2026-11,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,185180,185180,QRIS / E-Wallet
+TRX-20261114,2026-11-01,2026-11,Jawa Timur,Peralatan Rumah Tangga,1,578543,578543,QRIS / E-Wallet
+TRX-20260457,2026-11-01,2026-11,DKI Jakarta,Elektronik & Gadget,3,4201121,12603363,Tunai
+TRX-20260386,2026-11-01,2026-11,Jawa Barat,Peralatan Rumah Tangga,2,312803,625606,QRIS / E-Wallet
+TRX-20260205,2026-11-01,2026-11,Jawa Barat,Fashion & Busana,1,599341,599341,Tunai
+TRX-20260808,2026-11-01,2026-11,Jawa Tengah,Fashion & Busana,2,631099,1262198,Transfer Bank
+TRX-20260773,2026-11-02,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,177005,177005,QRIS / E-Wallet
+TRX-20261177,2026-11-02,2026-11,Jawa Tengah,Peralatan Rumah Tangga,1,325865,325865,QRIS / E-Wallet
+TRX-20261172,2026-11-02,2026-11,DKI Jakarta,Elektronik & Gadget,1,2216325,2216325,Kartu Kredit
+TRX-20260557,2026-11-02,2026-11,Jawa Timur,Bahan Makanan & Kuliner,1,190442,190442,QRIS / E-Wallet
+TRX-20260518,2026-11-03,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,4,131934,527736,Kartu Kredit
+TRX-20260943,2026-11-04,2026-11,Jawa Timur,Fashion & Busana,1,564386,564386,Transfer Bank
+TRX-20260335,2026-11-04,2026-11,DKI Jakarta,Elektronik & Gadget,1,5335716,5335716,QRIS / E-Wallet
+TRX-20260916,2026-11-04,2026-11,Jawa Timur,Elektronik & Gadget,4,1993749,7974996,Transfer Bank
+TRX-20261148,2026-11-05,2026-11,Bali & Nusa Tenggara,Fashion & Busana,1,102708,102708,QRIS / E-Wallet
+TRX-20260846,2026-11-05,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,3,151254,453762,Transfer Bank
+TRX-20260365,2026-11-06,2026-11,Jawa Tengah,Elektronik & Gadget,2,2464760,4929520,QRIS / E-Wallet
+TRX-20260509,2026-11-06,2026-11,DKI Jakarta,Peralatan Rumah Tangga,2,189424,378848,Tunai
+TRX-20260438,2026-11-06,2026-11,Bali & Nusa Tenggara,Fashion & Busana,1,208458,208458,QRIS / E-Wallet
+TRX-20261029,2026-11-06,2026-11,Bali & Nusa Tenggara,Elektronik & Gadget,3,5484445,16453335,Transfer Bank
+TRX-20260100,2026-11-07,2026-11,Jawa Timur,Fashion & Busana,1,319373,319373,QRIS / E-Wallet
+TRX-20260316,2026-11-07,2026-11,DKI Jakarta,Peralatan Rumah Tangga,4,492005,1968020,Transfer Bank
+TRX-20260268,2026-11-08,2026-11,Jawa Barat,Fashion & Busana,2,526711,1053422,Kartu Kredit
+TRX-20260088,2026-11-08,2026-11,Jawa Barat,Peralatan Rumah Tangga,1,618577,618577,QRIS / E-Wallet
+TRX-20260698,2026-11-09,2026-11,Jawa Barat,Elektronik & Gadget,1,5884256,5884256,Transfer Bank
+TRX-20261184,2026-11-09,2026-11,Bali & Nusa Tenggara,Elektronik & Gadget,3,3204098,9612294,Tunai
+TRX-20261105,2026-11-09,2026-11,DKI Jakarta,Peralatan Rumah Tangga,3,478607,1435821,Tunai
+TRX-20260612,2026-11-09,2026-11,DKI Jakarta,Peralatan Rumah Tangga,3,1020331,3060993,QRIS / E-Wallet
+TRX-20260454,2026-11-09,2026-11,DKI Jakarta,Fashion & Busana,1,413942,413942,Tunai
+TRX-20260751,2026-11-10,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,200103,200103,Kartu Kredit
+TRX-20260596,2026-11-10,2026-11,Jawa Barat,Elektronik & Gadget,2,4712583,9425166,Tunai
+TRX-20261092,2026-11-10,2026-11,Jawa Barat,Elektronik & Gadget,1,2507075,2507075,QRIS / E-Wallet
+TRX-20260250,2026-11-10,2026-11,Jawa Timur,Peralatan Rumah Tangga,4,226552,906208,Kartu Kredit
+TRX-20260125,2026-11-11,2026-11,Bali & Nusa Tenggara,Fashion & Busana,2,593300,1186600,QRIS / E-Wallet
+TRX-20260689,2026-11-11,2026-11,Jawa Timur,Peralatan Rumah Tangga,1,1309000,1309000,Kartu Kredit
+TRX-20261027,2026-11-11,2026-11,DKI Jakarta,Elektronik & Gadget,1,5031520,5031520,Kartu Kredit
+TRX-20260006,2026-11-12,2026-11,Jawa Barat,Elektronik & Gadget,4,1955361,7821444,Transfer Bank
+TRX-20261134,2026-11-12,2026-11,DKI Jakarta,Elektronik & Gadget,1,3172983,3172983,QRIS / E-Wallet
+TRX-20260262,2026-11-12,2026-11,Jawa Barat,Fashion & Busana,1,124060,124060,Transfer Bank
+TRX-20260771,2026-11-12,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,1,105182,105182,Tunai
+TRX-20260089,2026-11-13,2026-11,DKI Jakarta,Peralatan Rumah Tangga,5,136165,680825,Tunai
+TRX-20260422,2026-11-13,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,112719,112719,QRIS / E-Wallet
+TRX-20260555,2026-11-13,2026-11,Jawa Barat,Peralatan Rumah Tangga,1,420746,420746,Tunai
+TRX-20260935,2026-11-14,2026-11,Jawa Timur,Peralatan Rumah Tangga,1,128042,128042,Tunai
+TRX-20260249,2026-11-14,2026-11,Jawa Timur,Bahan Makanan & Kuliner,2,194838,389676,Kartu Kredit
+TRX-20260634,2026-11-14,2026-11,Jawa Timur,Bahan Makanan & Kuliner,3,138824,416472,Transfer Bank
+TRX-20260576,2026-11-14,2026-11,DKI Jakarta,Fashion & Busana,3,123619,370857,QRIS / E-Wallet
+TRX-20260877,2026-11-14,2026-11,Jawa Timur,Fashion & Busana,1,444378,444378,Tunai
+TRX-20260371,2026-11-15,2026-11,DKI Jakarta,Elektronik & Gadget,1,6648539,6648539,Kartu Kredit
+TRX-20261168,2026-11-16,2026-11,DKI Jakarta,Fashion & Busana,2,481855,963710,Transfer Bank
+TRX-20260241,2026-11-16,2026-11,Jawa Barat,Fashion & Busana,1,91565,91565,Kartu Kredit
+TRX-20260873,2026-11-16,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,2,206681,413362,Kartu Kredit
+TRX-20260532,2026-11-16,2026-11,Bali & Nusa Tenggara,Elektronik & Gadget,8,8160008,65280064,Transfer Bank
+TRX-20261104,2026-11-16,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,2,104013,208026,Transfer Bank
+TRX-20260813,2026-11-16,2026-11,Jawa Timur,Bahan Makanan & Kuliner,1,114201,114201,Transfer Bank
+TRX-20260562,2026-11-17,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,1,173006,173006,Kartu Kredit
+TRX-20260536,2026-11-17,2026-11,Jawa Barat,Fashion & Busana,1,490857,490857,QRIS / E-Wallet
+TRX-20260321,2026-11-17,2026-11,Jawa Tengah,Fashion & Busana,2,262256,524512,Transfer Bank
+TRX-20261130,2026-11-19,2026-11,Jawa Barat,Peralatan Rumah Tangga,2,597145,1194290,QRIS / E-Wallet
+TRX-20260585,2026-11-19,2026-11,Jawa Barat,Bahan Makanan & Kuliner,1,77143,77143,Kartu Kredit
+TRX-20261137,2026-11-19,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,1,145176,145176,Transfer Bank
+TRX-20260479,2026-11-19,2026-11,Jawa Tengah,Bahan Makanan & Kuliner,1,206205,206205,Transfer Bank
+TRX-20260552,2026-11-19,2026-11,Jawa Barat,Bahan Makanan & Kuliner,2,175368,350736,QRIS / E-Wallet
+TRX-20261043,2026-11-20,2026-11,Jawa Tengah,Fashion & Busana,3,370848,1112544,QRIS / E-Wallet
+TRX-20260561,2026-11-20,2026-11,Bali & Nusa Tenggara,Peralatan Rumah Tangga,1,176421,176421,Kartu Kredit
+TRX-20260444,2026-11-20,2026-11,Jawa Barat,Elektronik & Gadget,2,5726568,11453136,Kartu Kredit
+TRX-20260550,2026-11-20,2026-11,DKI Jakarta,Elektronik & Gadget,3,3820952,11462856,Kartu Kredit
+TRX-20260428,2026-11-20,2026-11,Jawa Timur,Fashion & Busana,2,501724,1003448,Transfer Bank
+TRX-20260768,2026-11-20,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,129354,129354,Transfer Bank
+TRX-20261152,2026-11-21,2026-11,DKI Jakarta,Peralatan Rumah Tangga,1,1046683,1046683,QRIS / E-Wallet
+TRX-20261057,2026-11-21,2026-11,Jawa Tengah,Fashion & Busana,1,461818,461818,QRIS / E-Wallet
+TRX-20260263,2026-11-22,2026-11,Jawa Tengah,Fashion & Busana,2,287966,575932,QRIS / E-Wallet
+TRX-20261081,2026-11-22,2026-11,Jawa Tengah,Elektronik & Gadget,2,7189956,14379912,Transfer Bank
+TRX-20260031,2026-11-22,2026-11,Jawa Tengah,Elektronik & Gadget,1,7347117,7347117,Kartu Kredit
+TRX-20260763,2026-11-22,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,55010,55010,Transfer Bank
+TRX-20261050,2026-11-23,2026-11,DKI Jakarta,Fashion & Busana,1,113908,113908,Transfer Bank
+TRX-20260836,2026-11-23,2026-11,DKI Jakarta,Peralatan Rumah Tangga,1,388449,388449,Transfer Bank
+TRX-20260957,2026-11-24,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,63314,63314,Kartu Kredit
+TRX-20261118,2026-11-24,2026-11,Jawa Tengah,Peralatan Rumah Tangga,3,661009,1983027,Kartu Kredit
+TRX-20260277,2026-11-24,2026-11,Jawa Timur,Peralatan Rumah Tangga,1,878910,878910,Tunai
+TRX-20260215,2026-11-24,2026-11,Jawa Tengah,Elektronik & Gadget,1,4359172,4359172,Tunai
+TRX-20260195,2026-11-24,2026-11,Bali & Nusa Tenggara,Elektronik & Gadget,1,6617165,6617165,Kartu Kredit
+TRX-20261117,2026-11-25,2026-11,DKI Jakarta,Fashion & Busana,1,370915,370915,Tunai
+TRX-20260149,2026-11-26,2026-11,DKI Jakarta,Fashion & Busana,1,280318,280318,Transfer Bank
+TRX-20260092,2026-11-26,2026-11,Bali & Nusa Tenggara,Fashion & Busana,4,501461,2005844,Tunai
+TRX-20260814,2026-11-26,2026-11,Jawa Barat,Bahan Makanan & Kuliner,1,51394,51394,Kartu Kredit
+TRX-20261080,2026-11-26,2026-11,Jawa Barat,Bahan Makanan & Kuliner,5,192427,962135,QRIS / E-Wallet
+TRX-20260591,2026-11-26,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,2,66860,133720,Transfer Bank
+TRX-20260754,2026-11-27,2026-11,Jawa Barat,Fashion & Busana,4,105300,421200,Kartu Kredit
+TRX-20260441,2026-11-28,2026-11,Jawa Timur,Fashion & Busana,1,307935,307935,QRIS / E-Wallet
+TRX-20260429,2026-11-28,2026-11,Jawa Timur,Peralatan Rumah Tangga,2,880457,1760914,Transfer Bank
+TRX-20260682,2026-11-28,2026-11,Jawa Barat,Fashion & Busana,2,351040,702080,Kartu Kredit
+TRX-20261111,2026-11-29,2026-11,Jawa Timur,Bahan Makanan & Kuliner,1,178368,178368,Transfer Bank
+TRX-20261132,2026-11-29,2026-11,Jawa Barat,Bahan Makanan & Kuliner,4,144827,579308,QRIS / E-Wallet
+TRX-20260756,2026-11-29,2026-11,Jawa Barat,Fashion & Busana,2,107745,215490,Transfer Bank
+TRX-20260290,2026-11-30,2026-11,Jawa Barat,Elektronik & Gadget,1,4854282,4854282,Tunai
+TRX-20260269,2026-11-30,2026-11,DKI Jakarta,Bahan Makanan & Kuliner,1,130281,130281,Kartu Kredit
+TRX-20260136,2026-11-30,2026-11,Bali & Nusa Tenggara,Elektronik & Gadget,2,7455092,14910184,Kartu Kredit
+TRX-20260946,2026-11-30,2026-11,Jawa Barat,Bahan Makanan & Kuliner,2,118657,237314,Transfer Bank
+TRX-20260324,2026-11-30,2026-11,Jawa Timur,Peralatan Rumah Tangga,1,695222,695222,QRIS / E-Wallet
+TRX-20260818,2026-11-30,2026-11,DKI Jakarta,Fashion & Busana,2,129793,259586,Tunai
+TRX-20260350,2026-11-30,2026-11,Jawa Barat,Bahan Makanan & Kuliner,1,43527,43527,QRIS / E-Wallet
+TRX-20260923,2026-12-01,2026-12,Bali & Nusa Tenggara,Elektronik & Gadget,5,2801730,14008650,Transfer Bank
+TRX-20260727,2026-12-01,2026-12,Jawa Timur,Elektronik & Gadget,4,6321337,25285348,Transfer Bank
+TRX-20260453,2026-12-01,2026-12,Jawa Tengah,Bahan Makanan & Kuliner,3,185372,556116,Kartu Kredit
+TRX-20260400,2026-12-02,2026-12,Jawa Timur,Fashion & Busana,1,400168,400168,Kartu Kredit
+TRX-20260898,2026-12-02,2026-12,DKI Jakarta,Peralatan Rumah Tangga,1,1015816,1015816,Transfer Bank
+TRX-20260367,2026-12-02,2026-12,DKI Jakarta,Fashion & Busana,1,447913,447913,Tunai
+TRX-20260381,2026-12-02,2026-12,Jawa Barat,Fashion & Busana,3,240720,722160,Kartu Kredit
+TRX-20260734,2026-12-03,2026-12,Jawa Tengah,Elektronik & Gadget,4,5789570,23158280,Tunai
+TRX-20260844,2026-12-04,2026-12,Jawa Timur,Fashion & Busana,1,180769,180769,Transfer Bank
+TRX-20260039,2026-12-04,2026-12,Jawa Barat,Elektronik & Gadget,1,6144512,6144512,Kartu Kredit
+TRX-20260499,2026-12-04,2026-12,Jawa Timur,Bahan Makanan & Kuliner,2,193976,387952,QRIS / E-Wallet
+TRX-20260033,2026-12-04,2026-12,Jawa Timur,Elektronik & Gadget,1,6336564,6336564,Kartu Kredit
+TRX-20260579,2026-12-04,2026-12,Bali & Nusa Tenggara,Bahan Makanan & Kuliner,1,44767,44767,QRIS / E-Wallet
+TRX-20260630,2026-12-05,2026-12,DKI Jakarta,Peralatan Rumah Tangga,1,863548,863548,Transfer Bank
+TRX-20261196,2026-12-05,2026-12,Jawa Timur,Bahan Makanan & Kuliner,4,218196,872784,Kartu Kredit
+TRX-20260083,2026-12-05,2026-12,Jawa Barat,Peralatan Rumah Tangga,2,314984,629968,QRIS / E-Wallet
+TRX-20260770,2026-12-05,2026-12,Bali & Nusa Tenggara,Fashion & Busana,2,515346,1030692,Tunai
+TRX-20260569,2026-12-05,2026-12,Jawa Tengah,Peralatan Rumah Tangga,2,249694,499388,QRIS / E-Wallet
+TRX-20260191,2026-12-05,2026-12,Jawa Tengah,Fashion & Busana,5,133988,669940,QRIS / E-Wallet
+TRX-20260038,2026-12-06,2026-12,Jawa Barat,Elektronik & Gadget,4,2631400,10525600,Tunai
+TRX-20260067,2026-12-06,2026-12,Jawa Barat,Bahan Makanan & Kuliner,2,30169,60338,Transfer Bank
+TRX-20260644,2026-12-06,2026-12,Jawa Barat,Peralatan Rumah Tangga,3,1166322,3498966,Tunai
+TRX-20260665,2026-12-06,2026-12,Jawa Timur,Elektronik & Gadget,4,3115562,12462248,Tunai
+TRX-20260390,2026-12-07,2026-12,DKI Jakarta,Elektronik & Gadget,1,4708104,4708104,Transfer Bank
+TRX-20261144,2026-12-07,2026-12,Jawa Barat,Bahan Makanan & Kuliner,1,185418,185418,Kartu Kredit
+TRX-20261073,2026-12-07,2026-12,Jawa Tengah,Elektronik & Gadget,4,2213151,8852604,Tunai
+TRX-20260702,2026-12-07,2026-12,Jawa Timur,Bahan Makanan & Kuliner,2,71201,142402,Tunai
+TRX-20260049,2026-12-08,2026-12,Jawa Barat,Bahan Makanan & Kuliner,2,43949,87898,Kartu Kredit
+TRX-20260180,2026-12-08,2026-12,DKI Jakarta,Fashion & Busana,1,491914,491914,QRIS / E-Wallet
+TRX-20260053,2026-12-08,2026-12,DKI Jakarta,Elektronik & Gadget,1,5552054,5552054,Transfer Bank
+TRX-20260800,2026-12-08,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,1,84968,84968,Tunai
+TRX-20260054,2026-12-08,2026-12,DKI Jakarta,Fashion & Busana,2,246895,493790,Transfer Bank
+TRX-20260901,2026-12-08,2026-12,Jawa Timur,Peralatan Rumah Tangga,2,260189,520378,Transfer Bank
+TRX-20260432,2026-12-08,2026-12,DKI Jakarta,Elektronik & Gadget,1,4191579,4191579,Tunai
+TRX-20260857,2026-12-09,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,1,143971,143971,Transfer Bank
+TRX-20260972,2026-12-09,2026-12,DKI Jakarta,Elektronik & Gadget,1,1755227,1755227,Tunai
+TRX-20260443,2026-12-09,2026-12,Jawa Tengah,Peralatan Rumah Tangga,2,122081,244162,Kartu Kredit
+TRX-20260966,2026-12-09,2026-12,Jawa Barat,Elektronik & Gadget,4,1988035,7952140,QRIS / E-Wallet
+TRX-20260655,2026-12-09,2026-12,Bali & Nusa Tenggara,Elektronik & Gadget,2,5551881,11103762,Transfer Bank
+TRX-20260224,2026-12-10,2026-12,Jawa Timur,Bahan Makanan & Kuliner,1,47589,47589,Tunai
+TRX-20261024,2026-12-10,2026-12,Jawa Timur,Peralatan Rumah Tangga,1,933084,933084,Kartu Kredit
+TRX-20260240,2026-12-10,2026-12,Jawa Barat,Elektronik & Gadget,1,6060636,6060636,Tunai
+TRX-20260419,2026-12-10,2026-12,DKI Jakarta,Elektronik & Gadget,1,4457838,4457838,Transfer Bank
+TRX-20260459,2026-12-10,2026-12,Jawa Barat,Bahan Makanan & Kuliner,1,52407,52407,Kartu Kredit
+TRX-20260940,2026-12-12,2026-12,Jawa Timur,Fashion & Busana,4,207367,829468,QRIS / E-Wallet
+TRX-20260822,2026-12-12,2026-12,Bali & Nusa Tenggara,Fashion & Busana,1,616597,616597,QRIS / E-Wallet
+TRX-20260738,2026-12-12,2026-12,DKI Jakarta,Elektronik & Gadget,1,7291115,7291115,QRIS / E-Wallet
+TRX-20260058,2026-12-12,2026-12,DKI Jakarta,Fashion & Busana,2,329939,659878,QRIS / E-Wallet
+TRX-20260640,2026-12-12,2026-12,Jawa Barat,Bahan Makanan & Kuliner,1,139010,139010,Transfer Bank
+TRX-20260157,2026-12-13,2026-12,Jawa Barat,Peralatan Rumah Tangga,1,1347537,1347537,Kartu Kredit
+TRX-20260606,2026-12-14,2026-12,Jawa Tengah,Elektronik & Gadget,3,5114970,15344910,Kartu Kredit
+TRX-20260022,2026-12-14,2026-12,Jawa Barat,Fashion & Busana,1,584053,584053,Transfer Bank
+TRX-20260237,2026-12-15,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,3,189732,569196,QRIS / E-Wallet
+TRX-20260046,2026-12-15,2026-12,Jawa Barat,Peralatan Rumah Tangga,5,1114465,5572325,QRIS / E-Wallet
+TRX-20260496,2026-12-15,2026-12,DKI Jakarta,Fashion & Busana,1,143052,143052,Tunai
+TRX-20261053,2026-12-15,2026-12,Jawa Barat,Bahan Makanan & Kuliner,2,47223,94446,QRIS / E-Wallet
+TRX-20261058,2026-12-16,2026-12,DKI Jakarta,Elektronik & Gadget,2,6696091,13392182,Kartu Kredit
+TRX-20260742,2026-12-16,2026-12,Jawa Barat,Bahan Makanan & Kuliner,1,185771,185771,Transfer Bank
+TRX-20260056,2026-12-16,2026-12,Jawa Barat,Peralatan Rumah Tangga,3,728162,2184486,Kartu Kredit
+TRX-20260893,2026-12-18,2026-12,Jawa Barat,Elektronik & Gadget,1,8094407,8094407,Tunai
+TRX-20260853,2026-12-18,2026-12,Jawa Barat,Fashion & Busana,2,256098,512196,Kartu Kredit
+TRX-20260477,2026-12-18,2026-12,DKI Jakarta,Peralatan Rumah Tangga,3,704069,2112207,Kartu Kredit
+TRX-20260437,2026-12-19,2026-12,DKI Jakarta,Elektronik & Gadget,1,3033481,3033481,QRIS / E-Wallet
+TRX-20260600,2026-12-19,2026-12,Jawa Timur,Bahan Makanan & Kuliner,3,90053,270159,QRIS / E-Wallet
+TRX-20260810,2026-12-19,2026-12,Jawa Barat,Peralatan Rumah Tangga,1,622526,622526,Transfer Bank
+TRX-20260305,2026-12-19,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,1,141171,141171,QRIS / E-Wallet
+TRX-20261122,2026-12-19,2026-12,Jawa Barat,Bahan Makanan & Kuliner,2,30688,61376,Transfer Bank
+TRX-20260791,2026-12-19,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,1,177065,177065,Kartu Kredit
+TRX-20260619,2026-12-20,2026-12,Jawa Barat,Peralatan Rumah Tangga,1,1023041,1023041,Transfer Bank
+TRX-20261169,2026-12-21,2026-12,Jawa Barat,Bahan Makanan & Kuliner,1,35144,35144,Kartu Kredit
+TRX-20260485,2026-12-21,2026-12,Jawa Barat,Fashion & Busana,1,315015,315015,Transfer Bank
+TRX-20260984,2026-12-21,2026-12,DKI Jakarta,Elektronik & Gadget,3,7861785,23585355,Tunai
+TRX-20260416,2026-12-21,2026-12,DKI Jakarta,Peralatan Rumah Tangga,3,1278701,3836103,Kartu Kredit
+TRX-20261044,2026-12-21,2026-12,Jawa Tengah,Fashion & Busana,1,473287,473287,Transfer Bank
+TRX-20260377,2026-12-22,2026-12,DKI Jakarta,Fashion & Busana,4,330876,1323504,Tunai
+TRX-20260652,2026-12-22,2026-12,DKI Jakarta,Elektronik & Gadget,2,6850473,13700946,Kartu Kredit
+TRX-20261006,2026-12-22,2026-12,Jawa Tengah,Bahan Makanan & Kuliner,1,144937,144937,Kartu Kredit
+TRX-20260764,2026-12-22,2026-12,Jawa Barat,Fashion & Busana,1,469028,469028,Kartu Kredit
+TRX-20261133,2026-12-22,2026-12,Bali & Nusa Tenggara,Elektronik & Gadget,1,8416097,8416097,Transfer Bank
+TRX-20260953,2026-12-22,2026-12,DKI Jakarta,Peralatan Rumah Tangga,1,805849,805849,Tunai
+TRX-20260233,2026-12-23,2026-12,Jawa Tengah,Elektronik & Gadget,4,4526343,18105372,Transfer Bank
+TRX-20260988,2026-12-23,2026-12,DKI Jakarta,Elektronik & Gadget,1,1741019,1741019,QRIS / E-Wallet
+TRX-20260896,2026-12-23,2026-12,Jawa Tengah,Elektronik & Gadget,1,4277285,4277285,Tunai
+TRX-20261093,2026-12-23,2026-12,DKI Jakarta,Elektronik & Gadget,2,2412243,4824486,Tunai
+TRX-20260094,2026-12-23,2026-12,Bali & Nusa Tenggara,Fashion & Busana,1,214608,214608,Tunai
+TRX-20261062,2026-12-24,2026-12,Jawa Tengah,Bahan Makanan & Kuliner,2,142564,285128,Kartu Kredit
+TRX-20260812,2026-12-24,2026-12,Jawa Barat,Peralatan Rumah Tangga,8,721275,5770200,Kartu Kredit
+TRX-20260598,2026-12-24,2026-12,Jawa Tengah,Peralatan Rumah Tangga,1,843857,843857,Tunai
+TRX-20261056,2026-12-24,2026-12,DKI Jakarta,Peralatan Rumah Tangga,1,413035,413035,Tunai
+TRX-20260329,2026-12-25,2026-12,DKI Jakarta,Fashion & Busana,3,648133,1944399,QRIS / E-Wallet
+TRX-20261189,2026-12-25,2026-12,DKI Jakarta,Fashion & Busana,3,314626,943878,Transfer Bank
+TRX-20260165,2026-12-25,2026-12,Jawa Tengah,Elektronik & Gadget,3,2773496,8320488,Transfer Bank
+TRX-20260248,2026-12-25,2026-12,Jawa Tengah,Bahan Makanan & Kuliner,4,31159,124636,QRIS / E-Wallet
+TRX-20260112,2026-12-26,2026-12,Jawa Tengah,Bahan Makanan & Kuliner,2,103058,206116,QRIS / E-Wallet
+TRX-20260312,2026-12-26,2026-12,Jawa Tengah,Elektronik & Gadget,1,8319152,8319152,QRIS / E-Wallet
+TRX-20260735,2026-12-26,2026-12,DKI Jakarta,Bahan Makanan & Kuliner,3,103625,310875,QRIS / E-Wallet
+TRX-20260524,2026-12-26,2026-12,Jawa Timur,Bahan Makanan & Kuliner,3,53657,160971,Kartu Kredit

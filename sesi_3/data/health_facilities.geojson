@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "name": "Titik_Fasilitas_Kesehatan",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "nama_faskes": "RSUD Kota Madya",
+        "kategori": "Rumah Sakit Umum",
+        "kapasitas_bed": 220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.368,
+          -7.792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "nama_faskes": "Puskesmas Sentral Induk",
+        "kategori": "Puskesmas Rawat Inap",
+        "kapasitas_bed": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.358,
+          -7.798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "nama_faskes": "RS Mata Pratama",
+        "kategori": "Rumah Sakit Khusus",
+        "kapasitas_bed": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.395,
+          -7.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "nama_faskes": "Puskesmas Timur Bahagia",
+        "kategori": "Puskesmas Non-Rawat Inap",
+        "kapasitas_bed": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.408,
+          -7.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "nama_faskes": "Klinik Medika Selatan",
+        "kategori": "Klinik Pratama",
+        "kapasitas_bed": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.365,
+          -7.825
+        ]
+      }
+    }
+  ]
+}
